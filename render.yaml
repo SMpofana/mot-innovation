@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: mot-innovation
+    runtime: node
+    plan: free
+    buildCommand: npm install && npm run build
+    startCommand: npm run start
+    envVars:
+      - key: NODE_VERSION
+        value: 22.18.0
+      - key: NODE_OPTIONS
+        value: "--max-old-space-size=4096"
+    healthCheckPath: /
+    autoDeploy: true
+    branch: main
