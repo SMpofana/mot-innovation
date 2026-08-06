@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "title": "YouTube Short Storyboard — Marketing reporting takes too long",
+    "pain_point_id": "manual_reporting",
+    "pain_point": "Marketing reporting takes too long",
+    "service_id": "tracking",
+    "service_name": "Performance Tracking & Reporting",
+    "case_study": "E-commerce Brand",
+    "script_path": "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\scripts\\yt_short_marketing_reporting_takes_too_long_20260804_220606.md",
+    "generated_at": "2026-08-04T22:08:23.846630",
+    "platform": "YouTube Shorts",
+    "duration_seconds": 60,
+    "aspect_ratio": "9:16"
+  },
+  "scenes": [
+    {
+      "scene_number": 1,
+      "name": "Hook",
+      "timing": {
+        "start": 0,
+        "end": 5,
+        "duration_seconds": 5
+      },
+      "visual_cues": {
+        "type": "text_overlay",
+        "description": "Bold text on dark/black background — \"Marketing reporting takes too long\"",
+        "text_overlay": "Marketing reporting takes too long",
+        "animation": "Fast zoom-in, dramatic music sting, slight shake effect",
+        "stock_footage_queries": [
+          "spreadsheet data analysis tired"
+        ],
+        "screen_recording": null,
+        "pexels_search_url": "https://www.pexels.com/search/videos/spreadsheet%20data%20analysis%20tired/"
+      },
+      "voiceover": "Marketing reporting takes too long.",
+      "text_overlay": "Marketing reporting takes too long",
+      "text_position": "center",
+      "text_animation": "zoom_in_fast",
+      "music": "Dramatic intro sting, then cuts to background track"
+    },
+    {
+      "scene_number": 2,
+      "name": "Problem Agitation",
+      "timing": {
+        "start": 5,
+        "end": 15,
+        "duration_seconds": 10
+      },
+      "visual_cues": {
+        "type": "stock_footage_with_overlay",
+        "description": "Split screen or quick cuts — messy folders, multiple browser tabs, frustrated person at desk",
+        "text_overlay": "2+ days/month spent building reports nobody reads.",
+        "animation": "Quick cuts every 2-3 seconds, slight desaturation for 'problem' mood",
+        "stock_footage_queries": [
+          "business analytics dashboard",
+          "financial reports paperwork"
+        ],
+        "screen_recording": "Screen recording of messy file folders or disconnected apps (optional)",
+        "pexels_search_urls": [
+          "https://www.pexels.com/search/videos/business%20analytics%20dashboard/",
+          "https://www.pexels.com/search/videos/financial%20reports%20paperwork/"
+        ]
+      },
+      "voiceover": "Reporting takes days of manual spreadsheet work and is often outdated by delivery. 2+ days/month spent building reports nobody reads.",
+      "text_overlay": "2+ days/month spent building reports nobody reads.",
+      "text_position": "bottom_third",
+      "text_animation": "fade_in",
+      "music": "Tense, slightly dissonant background track",
+      "color_grading": "Slightly desaturated, cool tones"
+    },
+    {
+      "scene_number": 3,
+      "name": "Solution",
+      "timing": {
+        "start": 15,
+        "end": 45,
+        "duration_seconds": 30
+      },
+      "visual_cues": {
+        "type": "screen_recording_and_stock",
+        "description": "Clean dashboard interface, organized asset library, automated workflow diagram. Screen recording of Dashboards system in action.",
+        "text_overlay": "One dashboard that tells you exactly what's working",
+        "animation": "Smooth pan across dashboard, zoom into key features, before/after transition",
+        "stock_footage_queries": [
+          "financial reports paperwork",
+          "data visualization screen"
+        ],
+        "screen_recording": "Record Dashboards dashboard demo — show the actual system working. Use OBS Studio. 15-20 second clip.",
+        "pexels_search_urls": [
+          "https://www.pexels.com/search/videos/financial%20reports%20paperwork/",
+          "https://www.pexels.com/search/videos/data%20visualization%20screen/"
+        ],
+        "before_after": {
+          "before": "Messy, scattered assets / manual posting / no dashboard",
+          "after": "Clean, organized Dashboards system — automated, visual, connected"
+        }
+      },
+      "voiceover": "If you can't measure it, you can't improve it. Unified dashboards that tell you what's actually working. M.O.T Innovation builds Performance Tracking & Reporting. One dashboard that tells you exactly what's working.",
+      "text_overlay": "One dashboard that tells you exactly what's working",
+      "text_position": "top_third",
+      "text_animation": "slide_up_fade",
+      "music": "Uplifting, professional background track — more energy",
+      "color_grading": "Full color, warm professional tones",
+      "case_study_overlay": {
+        "text": "80% reduction in time-to-publish",
+        "client": "E-commerce Brand",
+        "result": "80% reduction in time-to-publish. Clear view of which channels actually drove sales.",
+        "animation": "Slide in from right, hold 3 seconds"
+      }
+    },
+    {
+      "scene_number": 4,
+      "name": "CTA",
+      "timing": {
+        "start": 45,
+        "end": 60,
+        "duration_seconds": 15
+      },
+      "visual_cues": {
+        "type": "logo_and_text",
+        "description": "M.O.T Innovation logo on dark background with website URL and CTA button",
+        "text_overlay": "Book a Free Consultation",
+        "url_overlay": "https://motinnovation.co.za",
+        "animation": "Logo fades in, text slides up, subtle pulse on CTA",
+        "stock_footage_queries": [],
+        "screen_recording": null
+      },
+      "voiceover": "Book a free consultation at motinnovation.co.za. We don't build slide decks — we build working systems. Link in the description.",
+      "text_overlay": "Book a Free Consultation",
+      "text_position": "center",
+      "text_animation": "fade_in_pulse",
+      "music": "Music swells then resolves on final beat"
+    }
+  ],
+  "capcut_assembly": {
+    "platform": "CapCut Desktop (free)",
+    "aspect_ratio": "9:16 (vertical, 1080x1920 for YouTube Shorts)",
+    "total_duration": "60 seconds",
+    "fps": "30",
+    "steps": [
+      {
+        "step": 1,
+        "action": "Import media",
+        "details": "Download stock footage from Pexels (links in storyboard JSON). Record screen for Solution section using OBS Studio."
+      },
+      {
+        "step": 2,
+        "action": "Add voiceover",
+        "details": "Import the generated MP3 voiceover from audio/ directory. Align voiceover to scene timings."
+      },
+      {
+        "step": 3,
+        "action": "Place clips on timeline",
+        "details": "Scene 1 (0-5s): Dark background text clip. Scene 2 (5-15s): Problem stock footage. Scene 3 (15-45s): Screen recording + solution stock footage. Scene 4 (45-60s): Logo + CTA card."
+      },
+      {
+        "step": 4,
+        "action": "Add transitions",
+        "details": "Scene 1→2: Hard cut. Scene 2→3: Whip pan transition. Scene 3→4: Fade to black then logo fade-in.",
+        "transitions": [
+          {
+            "from_scene": 1,
+            "to_scene": 2,
+            "type": "hard_cut"
+          },
+          {
+            "from_scene": 2,
+            "to_scene": 3,
+            "type": "whip_pan"
+          },
+          {
+            "from_scene": 3,
+            "to_scene": 4,
+            "type": "fade_to_black"
+          }
+        ]
+      },
+      {
+        "step": 5,
+        "action": "Add text overlays",
+        "details": "Scene 1: \"Marketing reporting takes too long\" (center, large, white on black). Scene 2: \"2+ days/month spent building reports nobody reads.\" (bottom third). Scene 3: \"One dashboard that tells you exactly what's working\" (top third). Scene 4: \"Book a Free Consultation\" + URL (center).",
+        "text_overlays": [
+          {
+            "scene": 1,
+            "text": "Marketing reporting takes too long",
+            "position": "center",
+            "font": "Bold Sans",
+            "size": "Large",
+            "color": "#FFFFFF",
+            "bg_color": "#000000"
+          },
+          {
+            "scene": 2,
+            "text": "2+ days/month spent building reports nobody reads.",
+            "position": "bottom_third",
+            "font": "Medium Sans",
+            "size": "Medium",
+            "color": "#FFFFFF",
+            "bg_color": "#000000CC"
+          },
+          {
+            "scene": 3,
+            "text": "One dashboard that tells you exactly what's working",
+            "position": "top_third",
+            "font": "Medium Sans",
+            "size": "Medium",
+            "color": "#FFFFFF",
+            "bg_color": "#000000CC"
+          },
+          {
+            "scene": 4,
+            "text": "Book a Free Consultation",
+            "position": "center",
+            "font": "Bold Sans",
+            "size": "Large",
+            "color": "#FFFFFF",
+            "bg_color": "#000000"
+          }
+        ]
+      },
+      {
+        "step": 6,
+        "action": "Add music",
+        "details": "Background track: professional, building energy. Scene 1: dramatic sting. Scene 2: tense. Scene 3: uplifting. Scene 4: resolve. Use CapCut's free audio library or import royalty-free track."
+      },
+      {
+        "step": 7,
+        "action": "Add auto-captions",
+        "details": "Use CapCut's Auto Caption feature (free). Set to English. Style: white text with black outline, bottom center. This is critical for faceless content engagement."
+      },
+      {
+        "step": 8,
+        "action": "Export",
+        "details": "Export as MP4, 1080x1920, 30fps, H.264. File size target: <100MB for YouTube Shorts upload."
+      }
+    ]
+  },
+  "thumbnail_design": {
+    "tool": "Canva (free)",
+    "dimensions": "1280x720 (YouTube thumbnail) — also create 1080x1920 version for Shorts cover",
+    "template": "Dark monochrome background (trionn-style)",
+    "design_elements": [
+      {
+        "element": "Background",
+        "spec": "Dark charcoal (#0a0a0a) with subtle gradient or grain texture"
+      },
+      {
+        "element": "Main text",
+        "spec": "\"2+ days/month spent building reports nobody reads.\" — Bold, large, white text, centered. Font: Montserrat Bold or similar."
+      },
+      {
+        "element": "Secondary text",
+        "spec": "\"Marketing reporting takes too long\" — Smaller, gray (#999), below main text."
+      },
+      {
+        "element": "Logo",
+        "spec": "M.O.T Innovation logo, bottom right corner, small"
+      },
+      {
+        "element": "Accent",
+        "spec": "Thin accent line or geometric shape in brand accent color (white or electric blue)"
+      }
+    ],
+    "canva_search": "Search Canva for 'dark minimalist YouTube thumbnail' template",
+    "color_palette": [
+      "#0a0a0a",
+      "#FFFFFF",
+      "#999999",
+      "#3B82F6"
+    ],
+    "style_notes": "Minimalist, high contrast. No clutter. The stat text should be readable at thumbnail size."
+  },
+  "pexels_footage_links": {
+    "scene_1": "https://www.pexels.com/search/videos/spreadsheet%20data%20analysis%20tired/",
+    "scene_2": [
+      "https://www.pexels.com/search/videos/business%20analytics%20dashboard/",
+      "https://www.pexels.com/search/videos/financial%20reports%20paperwork/"
+    ],
+    "scene_3": [
+      "https://www.pexels.com/search/videos/financial%20reports%20paperwork/",
+      "https://www.pexels.com/search/videos/data%20visualization%20screen/"
+    ]
+  }
+}

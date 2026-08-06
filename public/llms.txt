@@ -1,0 +1,83 @@
+# M.O.T Innovation
+
+> Marketing intelligence infrastructure company that designs and builds digital asset management systems, multi-channel content delivery pipelines, performance tracking dashboards, and automated campaign optimization tools. Based in Johannesburg, South Africa. Serving clients worldwide.
+
+## What We Do
+
+M.O.T Innovation builds marketing intelligence infrastructure for businesses. We don't just consult — we build the actual systems and hand you the keys. Four core pillars:
+
+1. **Digital Marketing Infrastructure** — Digital Asset Management (DAM) setup, content taxonomy and tagging systems, cloud storage architecture, version control and approval workflows, brand kit and template standardization. Timeline: 2-3 weeks.
+
+2. **Multi-Endpoint Delivery** — Push content to every social media platform (LinkedIn, Instagram, TikTok, X, Facebook), email platforms, ad networks (Google Ads, Meta Ads, LinkedIn Ads), and CMS from a single source with per-channel formatting. Timeline: 1-2 weeks.
+
+3. **Performance Tracking & Reporting** — Unified performance dashboards, KPI framework design, automated weekly/monthly reports, cross-channel attribution modeling, executive summary generation. Timeline: 1-2 weeks.
+
+4. **Campaign Optimization** — A/B testing frameworks, budget reallocation strategies, audience segmentation, creative performance analysis, automated optimization rules. Ongoing.
+
+## Pricing
+
+- **Infrastructure Audit** — $500 one-time: Full stack audit, infrastructure map, gap analysis, prioritized recommendations, 30-min walkthrough, PDF report.
+- **Intelligence Build** — $2,500-$5,000 project-based: End-to-end infrastructure design and build including DAM, delivery pipeline, dashboards, team training, 30 days support.
+- **Intelligence Partner** — $1,000+/month retainer: Ongoing optimization, A/B testing, automated reporting, quarterly strategy reviews, priority support.
+
+All engagements start with a free consultation. No account required.
+
+## Process
+
+1. **Audit & Map** — Audit current marketing stack, identify where assets live, what channels are used, what data is tracked, and where the gaps are. Deliver a full infrastructure map.
+2. **Design & Build** — Design marketing intelligence architecture and build it out — DAM, delivery pipelines, tracking dashboards, and optimization rules.
+3. **Integrate & Automate** — Connect everything into one automated system. Content flows from storage to channels to tracking to optimization with minimal manual intervention.
+4. **Monitor & Optimize** — Monitor performance, fine-tune campaigns, and continuously improve. Marketing infrastructure gets smarter over time.
+
+## Key Differentiators
+
+- Engineers, not consultants — we build working systems, not slide decks
+- Channel-agnostic — no vendor lock-in, no forced migrations
+- Automated by default — every system reduces manual work
+- Built to scale — from solopreneur to enterprise team
+- Transparent infrastructure — you own everything we build, no black boxes
+- No account required to get started
+
+## Contact
+
+- Email: hello@motinnovation.co.za
+- Website: https://motinnovation.co.za
+- Free 30-minute consultation available
+- Response within 24 hours
+
+## Pages
+
+- [Home](https://motinnovation.co.za/) — Overview of M.O.T Innovation services and value proposition
+- [Services](https://motinnovation.co.za/services) — Detailed breakdown of all four service pillars: DAM, delivery, tracking, optimization (includes pricing)
+- [Process](https://motinnovation.co.za/process) — Our 4-step engagement process: Audit, Design & Build, Integrate & Automate, Monitor & Optimize
+- [About](https://motinnovation.co.za/about) — Company story, philosophy, and values
+- [Contact](https://motinnovation.co.za/contact) — Book a free consultation, no account required
+
+## Case Studies
+
+- **E-commerce Brand**: 80% reduction in time-to-publish after centralized DAM and delivery pipeline
+- **SaaS Startup**: Reporting time cut from 2 days to 0; conversion rate improved 23% through systematic A/B testing
+- **Content Creator Collective**: 3x content output with same headcount; clear revenue attribution per creator
+
+## Common Questions
+
+- **What is marketing infrastructure?** The system of connected tools, processes, and assets that power your marketing operations — the implementation, not the strategy.
+- **How do I organize scattered marketing assets?** Implement a DAM system with auto-tagging, taxonomy, and cloud storage. One searchable hub for every asset.
+- **How can I automate social media posting?** Multi-channel delivery pipeline to 10 channels with per-channel formatting and scheduling. Saves 10+ hours per week.
+- **How do I build a marketing dashboard?** Unified dashboard pulling data from all platforms in real-time. Tools: Power BI, DashThis, Databox.
+- **Why am I wasting money on ads?** No A/B testing framework, no real-time ROI dashboard, no CRM integration. Fix: campaign optimization setup.
+- **Should I hire an agency or an infrastructure consultant?** Agencies advise. Consultants build. If you want systems built, not slide decks, hire an infrastructure consultant.
+- **How do I integrate disconnected marketing tools?** Audit your stack, keep what works, build integration layers. Average team uses 12+ tools, fewer than half talk to each other.
+- **How much does it cost?** $500 for an audit, $2,500-$5,000 for a full build, $1,000+/month for ongoing partnership.
+- **Do I need an account?** No. Book a free consultation through the contact form.
+- **Will I be locked in?** No. You own everything. Open standards, no vendor lock-in.
+- **How long does it take?** Audit: 1 week. Full build: 4-6 weeks. Individual components: 1-3 weeks each.
+
+## Key Pain Points We Solve
+
+1. **Disconnected marketing tools** — 12+ tools that don't talk to each other → unified integration layer
+2. **Manual social media posting** — hours wasted copy-pasting to each channel → automated delivery pipeline to 10 channels
+3. **Scattered marketing assets** — files on Google Drive, Dropbox, personal laptops → centralized DAM with auto-tagging
+4. **Marketing reporting takes too long** — days spent on manual spreadsheet exports → automated real-time dashboards
+5. **Wasting money on ads** — no A/B testing, no ROI tracking → campaign optimization with 30-50% spend reduction
+6. **Agencies that don't build** — slide decks instead of working systems → we build the infrastructure, not just advise

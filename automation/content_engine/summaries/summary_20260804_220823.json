@@ -1,0 +1,346 @@
+{
+  "run_time": "2026-08-04 22:08:23",
+  "elapsed_seconds": 137.3,
+  "pain_points_count": 6,
+  "scripts_count": 12,
+  "voiceovers_count": 6,
+  "storyboards_count": 6,
+  "carousels_count": 3,
+  "calendar": {
+    "csv_path": "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\calendar\\content_calendar.csv",
+    "json_path": "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\calendar\\content_calendar.json",
+    "entries": [
+      {
+        "date": "2026-08-10",
+        "day": "Mon",
+        "platform": "LinkedIn",
+        "content_type": "Pain Point Post",
+        "pain_point": "Disconnected marketing tools",
+        "service": "Digital Marketing Infrastructure",
+        "script_file_path": "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\scripts\\linkedin_post_disconnected_marketing_tools_20260804_220606.md",
+        "status": "published"
+      },
+      {
+        "date": "2026-08-11",
+        "day": "Tue",
+        "platform": "YouTube",
+        "content_type": "Short (60s)",
+        "pain_point": "Manual social media posting takes too long",
+        "service": "Multi-Endpoint Delivery",
+        "script_file_path": "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\scripts\\yt_short_manual_social_media_posting_takes_too_long_20260804_220606.md",
+        "status": "published"
+      },
+      {
+        "date": "2026-08-12",
+        "day": "Wed",
+        "platform": "LinkedIn",
+        "content_type": "Case Study Carousel",
+        "pain_point": "Scattered marketing assets / no DAM",
+        "service": "Digital Marketing Infrastructure",
+        "script_file_path": "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\scripts\\linkedin_post_scattered_marketing_assets_no_dam_20260804_220606.md",
+        "status": "published"
+      },
+      {
+        "date": "2026-08-13",
+        "day": "Thu",
+        "platform": "YouTube",
+        "content_type": "Short (60s)",
+        "pain_point": "Marketing reporting takes too long",
+        "service": "Performance Tracking & Reporting",
+        "script_file_path": "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\scripts\\yt_short_marketing_reporting_takes_too_long_20260804_220606.md",
+        "status": "published"
+      },
+      {
+        "date": "2026-08-14",
+        "day": "Fri",
+        "platform": "LinkedIn",
+        "content_type": "Educational Post",
+        "pain_point": "Disconnected marketing tools",
+        "service": "Digital Marketing Infrastructure",
+        "script_file_path": "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\scripts\\linkedin_post_disconnected_marketing_tools_20260804_220606.md",
+        "status": "published"
+      },
+      {
+        "date": "2026-08-15",
+        "day": "Sat",
+        "platform": "YouTube",
+        "content_type": "Long-form (5min)",
+        "pain_point": "Wasting money on ads / no A/B testing",
+        "service": "Campaign Optimization",
+        "script_file_path": "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\scripts\\yt_short_wasting_money_on_ads_no_a_b_testing_20260804_220606.md",
+        "status": "published"
+      },
+      {
+        "date": "2026-08-16",
+        "day": "Sun",
+        "platform": "Rest",
+        "content_type": "—",
+        "pain_point": "—",
+        "service": "—",
+        "script_file_path": "",
+        "status": "rest"
+      },
+      {
+        "date": "2026-08-17",
+        "day": "Mon",
+        "platform": "LinkedIn",
+        "content_type": "Pain Point Post",
+        "pain_point": "Want someone to BUILD not just advise",
+        "service": "Digital Marketing Infrastructure",
+        "script_file_path": "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\scripts\\linkedin_post_want_someone_to_build_not_just_advise_20260804_220606.md",
+        "status": "published"
+      },
+      {
+        "date": "2026-08-18",
+        "day": "Tue",
+        "platform": "YouTube",
+        "content_type": "Short (60s)",
+        "pain_point": "Disconnected marketing tools",
+        "service": "Digital Marketing Infrastructure",
+        "script_file_path": "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\scripts\\yt_short_disconnected_marketing_tools_20260804_220606.md",
+        "status": "published"
+      },
+      {
+        "date": "2026-08-19",
+        "day": "Wed",
+        "platform": "LinkedIn",
+        "content_type": "Case Study Carousel",
+        "pain_point": "Manual social media posting takes too long",
+        "service": "Multi-Endpoint Delivery",
+        "script_file_path": "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\scripts\\linkedin_post_manual_social_media_posting_takes_too_long_20260804_220606.md",
+        "status": "published"
+      },
+      {
+        "date": "2026-08-20",
+        "day": "Thu",
+        "platform": "YouTube",
+        "content_type": "Short (60s)",
+        "pain_point": "Scattered marketing assets / no DAM",
+        "service": "Digital Marketing Infrastructure",
+        "script_file_path": "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\scripts\\yt_short_scattered_marketing_assets_no_dam_20260804_220606.md",
+        "status": "published"
+      },
+      {
+        "date": "2026-08-21",
+        "day": "Fri",
+        "platform": "LinkedIn",
+        "content_type": "Educational Post",
+        "pain_point": "Marketing reporting takes too long",
+        "service": "Performance Tracking & Reporting",
+        "script_file_path": "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\scripts\\linkedin_post_marketing_reporting_takes_too_long_20260804_220606.md",
+        "status": "published"
+      },
+      {
+        "date": "2026-08-22",
+        "day": "Sat",
+        "platform": "YouTube",
+        "content_type": "Long-form (5min)",
+        "pain_point": "Marketing reporting takes too long",
+        "service": "Performance Tracking & Reporting",
+        "script_file_path": "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\scripts\\yt_short_marketing_reporting_takes_too_long_20260804_220606.md",
+        "status": "published"
+      },
+      {
+        "date": "2026-08-23",
+        "day": "Sun",
+        "platform": "Rest",
+        "content_type": "—",
+        "pain_point": "—",
+        "service": "—",
+        "script_file_path": "",
+        "status": "rest"
+      },
+      {
+        "date": "2026-08-24",
+        "day": "Mon",
+        "platform": "LinkedIn",
+        "content_type": "Pain Point Post",
+        "pain_point": "Wasting money on ads / no A/B testing",
+        "service": "Campaign Optimization",
+        "script_file_path": "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\scripts\\linkedin_post_wasting_money_on_ads_no_a_b_testing_20260804_220606.md",
+        "status": "published"
+      },
+      {
+        "date": "2026-08-25",
+        "day": "Tue",
+        "platform": "YouTube",
+        "content_type": "Short (60s)",
+        "pain_point": "Want someone to BUILD not just advise",
+        "service": "Digital Marketing Infrastructure",
+        "script_file_path": "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\scripts\\yt_short_want_someone_to_build_not_just_advise_20260804_220606.md",
+        "status": "published"
+      },
+      {
+        "date": "2026-08-26",
+        "day": "Wed",
+        "platform": "LinkedIn",
+        "content_type": "Case Study Carousel",
+        "pain_point": "Disconnected marketing tools",
+        "service": "Digital Marketing Infrastructure",
+        "script_file_path": "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\scripts\\linkedin_post_disconnected_marketing_tools_20260804_220606.md",
+        "status": "published"
+      },
+      {
+        "date": "2026-08-27",
+        "day": "Thu",
+        "platform": "YouTube",
+        "content_type": "Short (60s)",
+        "pain_point": "Manual social media posting takes too long",
+        "service": "Multi-Endpoint Delivery",
+        "script_file_path": "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\scripts\\yt_short_manual_social_media_posting_takes_too_long_20260804_220606.md",
+        "status": "published"
+      },
+      {
+        "date": "2026-08-28",
+        "day": "Fri",
+        "platform": "LinkedIn",
+        "content_type": "Educational Post",
+        "pain_point": "Manual social media posting takes too long",
+        "service": "Multi-Endpoint Delivery",
+        "script_file_path": "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\scripts\\linkedin_post_manual_social_media_posting_takes_too_long_20260804_220606.md",
+        "status": "published"
+      },
+      {
+        "date": "2026-08-29",
+        "day": "Sat",
+        "platform": "YouTube",
+        "content_type": "Long-form (5min)",
+        "pain_point": "Scattered marketing assets / no DAM",
+        "service": "Digital Marketing Infrastructure",
+        "script_file_path": "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\scripts\\yt_short_scattered_marketing_assets_no_dam_20260804_220606.md",
+        "status": "published"
+      },
+      {
+        "date": "2026-08-30",
+        "day": "Sun",
+        "platform": "Rest",
+        "content_type": "—",
+        "pain_point": "—",
+        "service": "—",
+        "script_file_path": "",
+        "status": "rest"
+      },
+      {
+        "date": "2026-08-31",
+        "day": "Mon",
+        "platform": "LinkedIn",
+        "content_type": "Pain Point Post",
+        "pain_point": "Marketing reporting takes too long",
+        "service": "Performance Tracking & Reporting",
+        "script_file_path": "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\scripts\\linkedin_post_marketing_reporting_takes_too_long_20260804_220606.md",
+        "status": "published"
+      },
+      {
+        "date": "2026-09-01",
+        "day": "Tue",
+        "platform": "YouTube",
+        "content_type": "Short (60s)",
+        "pain_point": "Wasting money on ads / no A/B testing",
+        "service": "Campaign Optimization",
+        "script_file_path": "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\scripts\\yt_short_wasting_money_on_ads_no_a_b_testing_20260804_220606.md",
+        "status": "published"
+      },
+      {
+        "date": "2026-09-02",
+        "day": "Wed",
+        "platform": "LinkedIn",
+        "content_type": "Case Study Carousel",
+        "pain_point": "Want someone to BUILD not just advise",
+        "service": "Digital Marketing Infrastructure",
+        "script_file_path": "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\scripts\\linkedin_post_want_someone_to_build_not_just_advise_20260804_220606.md",
+        "status": "published"
+      },
+      {
+        "date": "2026-09-03",
+        "day": "Thu",
+        "platform": "YouTube",
+        "content_type": "Short (60s)",
+        "pain_point": "Disconnected marketing tools",
+        "service": "Digital Marketing Infrastructure",
+        "script_file_path": "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\scripts\\yt_short_disconnected_marketing_tools_20260804_220606.md",
+        "status": "published"
+      },
+      {
+        "date": "2026-09-04",
+        "day": "Fri",
+        "platform": "LinkedIn",
+        "content_type": "Educational Post",
+        "pain_point": "Wasting money on ads / no A/B testing",
+        "service": "Campaign Optimization",
+        "script_file_path": "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\scripts\\linkedin_post_wasting_money_on_ads_no_a_b_testing_20260804_220606.md",
+        "status": "published"
+      },
+      {
+        "date": "2026-09-05",
+        "day": "Sat",
+        "platform": "YouTube",
+        "content_type": "Long-form (5min)",
+        "pain_point": "Manual social media posting takes too long",
+        "service": "Multi-Endpoint Delivery",
+        "script_file_path": "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\scripts\\yt_short_manual_social_media_posting_takes_too_long_20260804_220606.md",
+        "status": "published"
+      },
+      {
+        "date": "2026-09-06",
+        "day": "Sun",
+        "platform": "Rest",
+        "content_type": "—",
+        "pain_point": "—",
+        "service": "—",
+        "script_file_path": "",
+        "status": "rest"
+      },
+      {
+        "date": "2026-09-07",
+        "day": "Mon",
+        "platform": "LinkedIn",
+        "content_type": "Pain Point Post",
+        "pain_point": "Scattered marketing assets / no DAM",
+        "service": "Digital Marketing Infrastructure",
+        "script_file_path": "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\scripts\\linkedin_post_scattered_marketing_assets_no_dam_20260804_220606.md",
+        "status": "published"
+      },
+      {
+        "date": "2026-09-08",
+        "day": "Tue",
+        "platform": "YouTube",
+        "content_type": "Short (60s)",
+        "pain_point": "Marketing reporting takes too long",
+        "service": "Performance Tracking & Reporting",
+        "script_file_path": "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\scripts\\yt_short_marketing_reporting_takes_too_long_20260804_220606.md",
+        "status": "published"
+      }
+    ]
+  },
+  "all_files": [
+    "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\scripts\\yt_short_disconnected_marketing_tools_20260804_220606.md",
+    "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\scripts\\linkedin_post_disconnected_marketing_tools_20260804_220606.md",
+    "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\scripts\\yt_short_manual_social_media_posting_takes_too_long_20260804_220606.md",
+    "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\scripts\\linkedin_post_manual_social_media_posting_takes_too_long_20260804_220606.md",
+    "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\scripts\\yt_short_scattered_marketing_assets_no_dam_20260804_220606.md",
+    "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\scripts\\linkedin_post_scattered_marketing_assets_no_dam_20260804_220606.md",
+    "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\scripts\\yt_short_marketing_reporting_takes_too_long_20260804_220606.md",
+    "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\scripts\\linkedin_post_marketing_reporting_takes_too_long_20260804_220606.md",
+    "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\scripts\\yt_short_wasting_money_on_ads_no_a_b_testing_20260804_220606.md",
+    "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\scripts\\linkedin_post_wasting_money_on_ads_no_a_b_testing_20260804_220606.md",
+    "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\scripts\\yt_short_want_someone_to_build_not_just_advise_20260804_220606.md",
+    "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\scripts\\linkedin_post_want_someone_to_build_not_just_advise_20260804_220606.md",
+    "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\audio\\yt_short_disconnected_marketing_tools_20260804_220606.mp3",
+    "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\audio\\yt_short_manual_social_media_posting_takes_too_long_20260804_220606.mp3",
+    "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\audio\\yt_short_scattered_marketing_assets_no_dam_20260804_220606.mp3",
+    "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\audio\\yt_short_marketing_reporting_takes_too_long_20260804_220606.mp3",
+    "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\audio\\yt_short_wasting_money_on_ads_no_a_b_testing_20260804_220606.mp3",
+    "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\audio\\yt_short_want_someone_to_build_not_just_advise_20260804_220606.mp3",
+    "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\storyboards\\storyboard_disconnected_tools_20260804_220823.json",
+    "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\storyboards\\storyboard_manual_posting_20260804_220823.json",
+    "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\storyboards\\storyboard_scattered_assets_20260804_220823.json",
+    "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\storyboards\\storyboard_manual_reporting_20260804_220823.json",
+    "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\storyboards\\storyboard_wasting_ad_spend_20260804_220823.json",
+    "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\storyboards\\storyboard_want_builder_not_advisor_20260804_220823.json",
+    "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\carousels\\carousel_disconnected_tools_20260804_220823.json",
+    "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\carousels\\carousel_disconnected_tools_20260804_220823.json",
+    "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\carousels\\carousel_disconnected_tools_20260804_220823.json",
+    "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\calendar\\content_calendar.csv",
+    "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\calendar\\content_calendar.json"
+  ]
+}

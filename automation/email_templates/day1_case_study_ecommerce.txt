@@ -1,0 +1,35 @@
+Subject: Case Study — How we cut content production time by 80% for an e-commerce brand
+
+Hi {{first_name}},
+
+Yesterday we talked about your marketing infrastructure. Today I want to share a quick case study.
+
+## The Problem
+
+An e-commerce brand was spending 15+ hours per week managing product photos, videos, and social media content. Their assets were scattered across Google Drive, Dropbox, and individual team members' computers. They had no system — just folders everywhere.
+
+## What We Built
+
+- **Digital Asset Management (DAM)** — Centralized all assets with proper taxonomy, tagging, and version control
+- **Multi-Endpoint Delivery** — One content source feeds every channel (Instagram, TikTok, Facebook, email, website) with automatic formatting per platform
+- **Automated Workflows** — Content goes from approved to published without manual hand-offs
+
+## The Result
+
+- ⏱️  Content production time: 15 hours/week → 3 hours/week (**80% reduction**)
+- 🎯  Time-to-publish: 2 days → 2 hours
+- 👥  Team could focus on strategy instead of file management
+- 📈  More consistent posting across all channels → 23% more organic reach
+
+The infrastructure paid for itself in the first month from time savings alone.
+
+## What Would This Look Like for You?
+
+During our consultation, we'll map your current setup and show you exactly where the gaps are — and what fixing them would save you.
+
+Reply to this email if you have any questions, or book your call here:
+👉 [Book your consultation](https://calendly.com/mot-innovation/consult)
+
+Best,
+**M.O.T Innovation Team**
+hello@motinnovation.co.za

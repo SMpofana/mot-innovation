@@ -1,0 +1,301 @@
+{
+  "metadata": {
+    "title": "LinkedIn Carousel — Disconnected marketing tools",
+    "pain_point_id": "disconnected_tools",
+    "pain_point": "Disconnected marketing tools",
+    "service_id": "dam",
+    "service_name": "Digital Marketing Infrastructure",
+    "case_study": "Content Creator Collective",
+    "utm_link": "https://motinnovation.co.za/contact?utm_source=content_engine&utm_medium=linkedin_carousel&utm_campaign=disconnected_tools&utm_content=dam",
+    "hashtags": "#DAM #DigitalAssets #MarketingInfrastructure #MOTInnovation #MarketingCarousel",
+    "generated_at": "2026-08-04T22:08:23.861593",
+    "platform": "LinkedIn",
+    "format": "PDF carousel (6 slides)"
+  },
+  "canva_spec": {
+    "tool": "Canva (free)",
+    "slide_dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "unit": "px"
+    },
+    "template_search": "Search Canva for 'dark minimalist LinkedIn carousel' or 'carousel presentation'",
+    "export_format": "PDF (for LinkedIn native carousel upload)",
+    "color_palette": [
+      "#0a0a0a",
+      "#1a1a1a",
+      "#FFFFFF",
+      "#999999",
+      "#3B82F6",
+      "#22C55E",
+      "#EF4444"
+    ],
+    "font_recommendation": "Montserrat or Inter — clean sans-serif",
+    "design_notes": [
+      "Keep text minimal — slides should be scannable in 2-3 seconds each",
+      "Use the same layout pattern across all slides for consistency",
+      "Slide numbers (1/6, 2/6, etc.) in top-right corner",
+      "Accent bar at top or bottom for visual continuity",
+      "Dark background (#0a0a0a) with white text — trionn-style monochrome"
+    ]
+  },
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "stat_hook",
+      "title": "Stat Hook",
+      "headline": "12+ tools. Fewer than half connected.",
+      "subheadline": "Disconnected marketing tools",
+      "body": null,
+      "design": {
+        "background_color": "#0a0a0a",
+        "text_color": "#FFFFFF",
+        "accent_color": "#3B82F6",
+        "text_positions": {
+          "headline": {
+            "x": "center",
+            "y": "40%",
+            "font_size": 72,
+            "font_weight": "bold"
+          },
+          "subheadline": {
+            "x": "center",
+            "y": "60%",
+            "font_size": 36,
+            "font_weight": "normal",
+            "color": "#999999"
+          }
+        },
+        "elements": [
+          {
+            "type": "slide_number",
+            "position": "top_right",
+            "text": "1/6",
+            "color": "#999999"
+          },
+          {
+            "type": "accent_bar",
+            "position": "top",
+            "width": "100%",
+            "height": "8px",
+            "color": "#3B82F6"
+          }
+        ]
+      }
+    },
+    {
+      "slide_number": 2,
+      "type": "problem",
+      "title": "The Problem",
+      "headline": "The Problem",
+      "subheadline": null,
+      "body": "The average marketing team uses 12+ tools and fewer than half talk to each other.",
+      "design": {
+        "background_color": "#0a0a0a",
+        "text_color": "#FFFFFF",
+        "accent_color": "#EF4444",
+        "text_positions": {
+          "headline": {
+            "x": "center",
+            "y": "20%",
+            "font_size": 48,
+            "font_weight": "bold",
+            "color": "#EF4444"
+          },
+          "body": {
+            "x": "center",
+            "y": "50%",
+            "font_size": 32,
+            "font_weight": "normal",
+            "max_width": "80%"
+          }
+        },
+        "elements": [
+          {
+            "type": "slide_number",
+            "position": "top_right",
+            "text": "2/6",
+            "color": "#999999"
+          }
+        ]
+      }
+    },
+    {
+      "slide_number": 3,
+      "type": "what_others_try",
+      "title": "What Others Try",
+      "headline": "What Most Businesses Try",
+      "subheadline": null,
+      "body": "❌ More tools (that don't talk to each other)\n❌ Manual workarounds and spreadsheets\n❌ Hiring more people instead of building systems\n❌ Another consultant with a slide deck",
+      "design": {
+        "background_color": "#1a1a1a",
+        "text_color": "#FFFFFF",
+        "accent_color": "#EF4444",
+        "text_positions": {
+          "headline": {
+            "x": "center",
+            "y": "15%",
+            "font_size": 42,
+            "font_weight": "bold"
+          },
+          "body": {
+            "x": "center",
+            "y": "50%",
+            "font_size": 30,
+            "font_weight": "normal",
+            "line_height": 1.8,
+            "max_width": "80%"
+          }
+        },
+        "elements": [
+          {
+            "type": "slide_number",
+            "position": "top_right",
+            "text": "3/6",
+            "color": "#999999"
+          }
+        ]
+      }
+    },
+    {
+      "slide_number": 4,
+      "type": "what_we_do",
+      "title": "What We Do Differently",
+      "headline": "What We Do",
+      "subheadline": "Digital Marketing Infrastructure",
+      "body": "✅ Stop hunting for files. A proper DAM system means finding any asset in seconds, not hours.\n✅ A centralized asset hub your whole team can use\n✅ We build the actual system, not a recommendation\n✅ You own everything. We train your team. We hand over the keys.",
+      "design": {
+        "background_color": "#0a0a0a",
+        "text_color": "#FFFFFF",
+        "accent_color": "#22C55E",
+        "text_positions": {
+          "headline": {
+            "x": "center",
+            "y": "12%",
+            "font_size": 42,
+            "font_weight": "bold"
+          },
+          "subheadline": {
+            "x": "center",
+            "y": "22%",
+            "font_size": 28,
+            "font_weight": "normal",
+            "color": "#3B82F6"
+          },
+          "body": {
+            "x": "center",
+            "y": "50%",
+            "font_size": 28,
+            "font_weight": "normal",
+            "line_height": 1.8,
+            "max_width": "80%"
+          }
+        },
+        "elements": [
+          {
+            "type": "slide_number",
+            "position": "top_right",
+            "text": "4/6",
+            "color": "#999999"
+          }
+        ]
+      }
+    },
+    {
+      "slide_number": 5,
+      "type": "result",
+      "title": "The Result",
+      "headline": "The Result",
+      "subheadline": "3x content output with same headcount",
+      "body": "Client: Content Creator Collective\n\nChallenge: 5 creators producing content with no shared system. Assets duplicated, channels inconsistent, no performance visibility....\n\nSolution: Shared content library with role-based access. Cross-channel scheduling pipeline. Per-creator performance dashboards....\n\nResult: 3x content output with same headcount. Clear attribution of revenue to individual creators.",
+      "design": {
+        "background_color": "#1a1a1a",
+        "text_color": "#FFFFFF",
+        "accent_color": "#22C55E",
+        "text_positions": {
+          "headline": {
+            "x": "center",
+            "y": "10%",
+            "font_size": 42,
+            "font_weight": "bold"
+          },
+          "subheadline": {
+            "x": "center",
+            "y": "20%",
+            "font_size": 36,
+            "font_weight": "bold",
+            "color": "#22C55E"
+          },
+          "body": {
+            "x": "center",
+            "y": "50%",
+            "font_size": 24,
+            "font_weight": "normal",
+            "line_height": 1.6,
+            "max_width": "85%",
+            "color": "#999999"
+          }
+        },
+        "elements": [
+          {
+            "type": "slide_number",
+            "position": "top_right",
+            "text": "5/6",
+            "color": "#999999"
+          }
+        ]
+      }
+    },
+    {
+      "slide_number": 6,
+      "type": "cta",
+      "title": "Call to Action",
+      "headline": "Book a Free Consultation",
+      "subheadline": null,
+      "body": "We don't build slide decks.\nWe build working systems.\n\nhttps://motinnovation.co.za",
+      "design": {
+        "background_color": "#0a0a0a",
+        "text_color": "#FFFFFF",
+        "accent_color": "#3B82F6",
+        "text_positions": {
+          "headline": {
+            "x": "center",
+            "y": "30%",
+            "font_size": 56,
+            "font_weight": "bold"
+          },
+          "body": {
+            "x": "center",
+            "y": "60%",
+            "font_size": 32,
+            "font_weight": "normal",
+            "line_height": 1.8,
+            "color": "#999999"
+          }
+        },
+        "elements": [
+          {
+            "type": "logo",
+            "position": "center",
+            "y": "85%",
+            "text": "M.O.T Innovation",
+            "color": "#FFFFFF"
+          },
+          {
+            "type": "slide_number",
+            "position": "top_right",
+            "text": "6/6",
+            "color": "#999999"
+          },
+          {
+            "type": "accent_bar",
+            "position": "bottom",
+            "width": "100%",
+            "height": "8px",
+            "color": "#3B82F6"
+          }
+        ]
+      }
+    }
+  ]
+}

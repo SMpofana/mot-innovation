@@ -1,0 +1,36 @@
+Subject: Case Study — How a SaaS company improved conversion by 23% with better tracking
+
+Hi {{first_name}},
+
+Following up with our second case study — this one's about a SaaS company that was flying blind.
+
+## The Problem
+
+A B2B SaaS company was running ads on Google, LinkedIn, and Meta — but they had no unified tracking. Each platform's dashboard told a different story. They couldn't answer the basic question: "Which channel is actually driving sign-ups?"
+
+## What We Built
+
+- **Unified Performance Dashboard** — Pulled data from every ad platform, Google Analytics, and their CRM into one real-time view
+- **Cross-Channel Attribution** — Traced every sign-up back to its original source, not just the last click
+- **KPI Framework** — Defined what actually mattered (not vanity metrics) and automated reporting
+- **Weekly Automated Reports** — Stakeholders got a clean executive summary every Monday — no manual work
+
+## The Result
+
+- 📊  Attribution clarity: "we have no idea" → "we know exactly what works"
+- 📈  Conversion rate: 4.1% → 5.0% (**23% improvement**) by reallocating budget to what actually worked
+- 💰  Ad spend efficiency: Same budget, 23% more sign-ups
+- 📋  Reporting time: 2 days/month → automated (0 hours)
+
+## The Insight
+
+They didn't need more tools. They needed their tools to work together. That's what marketing intelligence infrastructure is — not more software, but the connective tissue between what you already have.
+
+## Your Turn
+
+If you're running ads and can't clearly say which channel drives results, we should talk. Book your consultation:
+👉 [Book your consultation](https://calendly.com/mot-innovation/consult)
+
+Best,
+**M.O.T Innovation Team**
+hello@motinnovation.co.za

@@ -1,0 +1,39 @@
+# Dependencies / build artifacts (never commit — huge, regenerable)
+node_modules/
+.next/
+*.tsbuildinfo
+.npm/
+.yarn/
+
+# Python (automation suite)
+__pycache__/
+*.pyc
+
+# Generated pipeline data (runtime output, not source)
+leads/
+reports/
+nurturing/
+onboarding/
+notifications/
+content_calendar/
+
+# Secrets
+.env
+.env.local
+*.env.local
+.env*.local
+
+# OS junk
+.DS_Store
+Thumbs.db
+automation/.env
+automation/publishing/youtube_token.json
+automation/publishing/client_secrets.json
+automation/publishing/youtube_token.json
+automation/content_engine/audio/
+automation/content_engine/videos/
+automation/content_engine/scripts/
+automation/content_engine/carousels/
+automation/content_engine/calendar/
+automation/leads/
+automation/reports/

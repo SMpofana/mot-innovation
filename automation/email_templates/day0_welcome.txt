@@ -1,0 +1,31 @@
+Subject: Welcome to M.O.T Innovation — Your Free Consultation Booking
+
+Hi {{first_name}},
+
+Thank you for reaching out to M.O.T Innovation! We're excited to help you build your marketing intelligence infrastructure.
+
+## What Happens Next
+
+1. **Book your free 30-minute consultation** — Reply to this email or use the link below to schedule a call.
+   👉 [Book your consultation](https://calendly.com/mot-innovation/consult)
+
+2. During the call, we'll:
+   - Understand your current marketing setup
+   - Identify your biggest infrastructure gaps
+   - Map out what a marketing intelligence system looks like for you
+   - Give you a clear recommendation — whether or not you work with us
+
+3. After the call, you'll receive a summary with recommended next steps.
+
+## About M.O.T Innovation
+
+We don't build slide decks. We build working systems — digital asset management, multi-channel delivery, performance dashboards, and campaign optimization. You own everything we build, and we train your team to use it.
+
+**Marketing Intelligence, Engineered.**
+
+If you have any questions before we speak, just reply to this email or contact us at hello@motinnovation.co.za.
+
+Talk soon,
+**M.O.T Innovation Team**
+hello@motinnovation.co.za
+https://motinnovation.co.za

@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "title": "YouTube Short Storyboard — Wasting money on ads / no A/B testing",
+    "pain_point_id": "wasting_ad_spend",
+    "pain_point": "Wasting money on ads / no A/B testing",
+    "service_id": "optimization",
+    "service_name": "Campaign Optimization",
+    "case_study": "SaaS Startup",
+    "script_path": "C:\\Users\\mpofa\\agent-team\\my_website\\mot_innovation\\automation\\content_engine\\scripts\\yt_short_wasting_money_on_ads_no_a_b_testing_20260804_220606.md",
+    "generated_at": "2026-08-04T22:08:23.850120",
+    "platform": "YouTube Shorts",
+    "duration_seconds": 60,
+    "aspect_ratio": "9:16"
+  },
+  "scenes": [
+    {
+      "scene_number": 1,
+      "name": "Hook",
+      "timing": {
+        "start": 0,
+        "end": 5,
+        "duration_seconds": 5
+      },
+      "visual_cues": {
+        "type": "text_overlay",
+        "description": "Bold text on dark/black background — \"Wasting money on ads / no A/B testing\"",
+        "text_overlay": "Wasting money on ads / no A/B testing",
+        "animation": "Fast zoom-in, dramatic music sting, slight shake effect",
+        "stock_footage_queries": [
+          "money waste advertising"
+        ],
+        "screen_recording": null,
+        "pexels_search_url": "https://www.pexels.com/search/videos/money%20waste%20advertising/"
+      },
+      "voiceover": "Wasting money on ads / no A/B testing.",
+      "text_overlay": "Wasting money on ads / no A/B testing",
+      "text_position": "center",
+      "text_animation": "zoom_in_fast",
+      "music": "Dramatic intro sting, then cuts to background track"
+    },
+    {
+      "scene_number": 2,
+      "name": "Problem Agitation",
+      "timing": {
+        "start": 5,
+        "end": 15,
+        "duration_seconds": 10
+      },
+      "visual_cues": {
+        "type": "stock_footage_with_overlay",
+        "description": "Split screen or quick cuts — messy folders, multiple browser tabs, frustrated person at desk",
+        "text_overlay": "Up to 40% of ad budget wasted without optimization.",
+        "animation": "Quick cuts every 2-3 seconds, slight desaturation for 'problem' mood",
+        "stock_footage_queries": [
+          "digital marketing analytics screen",
+          "ad campaign optimization"
+        ],
+        "screen_recording": "Screen recording of messy file folders or disconnected apps (optional)",
+        "pexels_search_urls": [
+          "https://www.pexels.com/search/videos/digital%20marketing%20analytics%20screen/",
+          "https://www.pexels.com/search/videos/ad%20campaign%20optimization/"
+        ]
+      },
+      "voiceover": "Ad spend flying blind with no systematic A/B testing or budget reallocation. Up to 40% of ad budget wasted without optimization.",
+      "text_overlay": "Up to 40% of ad budget wasted without optimization.",
+      "text_position": "bottom_third",
+      "text_animation": "fade_in",
+      "music": "Tense, slightly dissonant background track",
+      "color_grading": "Slightly desaturated, cool tones"
+    },
+    {
+      "scene_number": 3,
+      "name": "Solution",
+      "timing": {
+        "start": 15,
+        "end": 45,
+        "duration_seconds": 30
+      },
+      "visual_cues": {
+        "type": "screen_recording_and_stock",
+        "description": "Clean dashboard interface, organized asset library, automated workflow diagram. Screen recording of Optimization system in action.",
+        "text_overlay": "Campaigns that improve themselves over time",
+        "animation": "Smooth pan across dashboard, zoom into key features, before/after transition",
+        "stock_footage_queries": [
+          "ad campaign optimization",
+          "business growth chart"
+        ],
+        "screen_recording": "Record Optimization dashboard demo — show the actual system working. Use OBS Studio. 15-20 second clip.",
+        "pexels_search_urls": [
+          "https://www.pexels.com/search/videos/ad%20campaign%20optimization/",
+          "https://www.pexels.com/search/videos/business%20growth%20chart/"
+        ],
+        "before_after": {
+          "before": "Messy, scattered assets / manual posting / no dashboard",
+          "after": "Clean, organized Optimization system — automated, visual, connected"
+        }
+      },
+      "voiceover": "Stop wasting ad budget. Proper optimization and A/B testing can 2-3x your ROAS. M.O.T Innovation builds Campaign Optimization. Campaigns that improve themselves over time.",
+      "text_overlay": "Campaigns that improve themselves over time",
+      "text_position": "top_third",
+      "text_animation": "slide_up_fade",
+      "music": "Uplifting, professional background track — more energy",
+      "color_grading": "Full color, warm professional tones",
+      "case_study_overlay": {
+        "text": "23% improvement in conversion rate",
+        "client": "SaaS Startup",
+        "result": "Reporting time cut from 2 days to 0. Conversion rate improved 23% through systematic testing.",
+        "animation": "Slide in from right, hold 3 seconds"
+      }
+    },
+    {
+      "scene_number": 4,
+      "name": "CTA",
+      "timing": {
+        "start": 45,
+        "end": 60,
+        "duration_seconds": 15
+      },
+      "visual_cues": {
+        "type": "logo_and_text",
+        "description": "M.O.T Innovation logo on dark background with website URL and CTA button",
+        "text_overlay": "Book a Free Consultation",
+        "url_overlay": "https://motinnovation.co.za",
+        "animation": "Logo fades in, text slides up, subtle pulse on CTA",
+        "stock_footage_queries": [],
+        "screen_recording": null
+      },
+      "voiceover": "Book a free consultation at motinnovation.co.za. We don't build slide decks — we build working systems. Link in the description.",
+      "text_overlay": "Book a Free Consultation",
+      "text_position": "center",
+      "text_animation": "fade_in_pulse",
+      "music": "Music swells then resolves on final beat"
+    }
+  ],
+  "capcut_assembly": {
+    "platform": "CapCut Desktop (free)",
+    "aspect_ratio": "9:16 (vertical, 1080x1920 for YouTube Shorts)",
+    "total_duration": "60 seconds",
+    "fps": "30",
+    "steps": [
+      {
+        "step": 1,
+        "action": "Import media",
+        "details": "Download stock footage from Pexels (links in storyboard JSON). Record screen for Solution section using OBS Studio."
+      },
+      {
+        "step": 2,
+        "action": "Add voiceover",
+        "details": "Import the generated MP3 voiceover from audio/ directory. Align voiceover to scene timings."
+      },
+      {
+        "step": 3,
+        "action": "Place clips on timeline",
+        "details": "Scene 1 (0-5s): Dark background text clip. Scene 2 (5-15s): Problem stock footage. Scene 3 (15-45s): Screen recording + solution stock footage. Scene 4 (45-60s): Logo + CTA card."
+      },
+      {
+        "step": 4,
+        "action": "Add transitions",
+        "details": "Scene 1→2: Hard cut. Scene 2→3: Whip pan transition. Scene 3→4: Fade to black then logo fade-in.",
+        "transitions": [
+          {
+            "from_scene": 1,
+            "to_scene": 2,
+            "type": "hard_cut"
+          },
+          {
+            "from_scene": 2,
+            "to_scene": 3,
+            "type": "whip_pan"
+          },
+          {
+            "from_scene": 3,
+            "to_scene": 4,
+            "type": "fade_to_black"
+          }
+        ]
+      },
+      {
+        "step": 5,
+        "action": "Add text overlays",
+        "details": "Scene 1: \"Wasting money on ads / no A/B testing\" (center, large, white on black). Scene 2: \"Up to 40% of ad budget wasted without optimization.\" (bottom third). Scene 3: \"Campaigns that improve themselves over time\" (top third). Scene 4: \"Book a Free Consultation\" + URL (center).",
+        "text_overlays": [
+          {
+            "scene": 1,
+            "text": "Wasting money on ads / no A/B testing",
+            "position": "center",
+            "font": "Bold Sans",
+            "size": "Large",
+            "color": "#FFFFFF",
+            "bg_color": "#000000"
+          },
+          {
+            "scene": 2,
+            "text": "Up to 40% of ad budget wasted without optimization.",
+            "position": "bottom_third",
+            "font": "Medium Sans",
+            "size": "Medium",
+            "color": "#FFFFFF",
+            "bg_color": "#000000CC"
+          },
+          {
+            "scene": 3,
+            "text": "Campaigns that improve themselves over time",
+            "position": "top_third",
+            "font": "Medium Sans",
+            "size": "Medium",
+            "color": "#FFFFFF",
+            "bg_color": "#000000CC"
+          },
+          {
+            "scene": 4,
+            "text": "Book a Free Consultation",
+            "position": "center",
+            "font": "Bold Sans",
+            "size": "Large",
+            "color": "#FFFFFF",
+            "bg_color": "#000000"
+          }
+        ]
+      },
+      {
+        "step": 6,
+        "action": "Add music",
+        "details": "Background track: professional, building energy. Scene 1: dramatic sting. Scene 2: tense. Scene 3: uplifting. Scene 4: resolve. Use CapCut's free audio library or import royalty-free track."
+      },
+      {
+        "step": 7,
+        "action": "Add auto-captions",
+        "details": "Use CapCut's Auto Caption feature (free). Set to English. Style: white text with black outline, bottom center. This is critical for faceless content engagement."
+      },
+      {
+        "step": 8,
+        "action": "Export",
+        "details": "Export as MP4, 1080x1920, 30fps, H.264. File size target: <100MB for YouTube Shorts upload."
+      }
+    ]
+  },
+  "thumbnail_design": {
+    "tool": "Canva (free)",
+    "dimensions": "1280x720 (YouTube thumbnail) — also create 1080x1920 version for Shorts cover",
+    "template": "Dark monochrome background (trionn-style)",
+    "design_elements": [
+      {
+        "element": "Background",
+        "spec": "Dark charcoal (#0a0a0a) with subtle gradient or grain texture"
+      },
+      {
+        "element": "Main text",
+        "spec": "\"Up to 40% of ad budget wasted without optimization.\" — Bold, large, white text, centered. Font: Montserrat Bold or similar."
+      },
+      {
+        "element": "Secondary text",
+        "spec": "\"Wasting money on ads / no A/B testing\" — Smaller, gray (#999), below main text."
+      },
+      {
+        "element": "Logo",
+        "spec": "M.O.T Innovation logo, bottom right corner, small"
+      },
+      {
+        "element": "Accent",
+        "spec": "Thin accent line or geometric shape in brand accent color (white or electric blue)"
+      }
+    ],
+    "canva_search": "Search Canva for 'dark minimalist YouTube thumbnail' template",
+    "color_palette": [
+      "#0a0a0a",
+      "#FFFFFF",
+      "#999999",
+      "#3B82F6"
+    ],
+    "style_notes": "Minimalist, high contrast. No clutter. The stat text should be readable at thumbnail size."
+  },
+  "pexels_footage_links": {
+    "scene_1": "https://www.pexels.com/search/videos/money%20waste%20advertising/",
+    "scene_2": [
+      "https://www.pexels.com/search/videos/digital%20marketing%20analytics%20screen/",
+      "https://www.pexels.com/search/videos/ad%20campaign%20optimization/"
+    ],
+    "scene_3": [
+      "https://www.pexels.com/search/videos/ad%20campaign%20optimization/",
+      "https://www.pexels.com/search/videos/business%20growth%20chart/"
+    ]
+  }
+}

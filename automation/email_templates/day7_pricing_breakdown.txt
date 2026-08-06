@@ -1,0 +1,42 @@
+Subject: Pricing breakdown — What does marketing intelligence infrastructure cost?
+
+Hi {{first_name}},
+
+A few days ago I shared how better tracking improved a SaaS company's conversions by 23%. Today I want to be transparent about what working with us costs.
+
+## Our Engagement Models
+
+### 1. Infrastructure Audit — $500 (one-time)
+We do a deep audit of your entire marketing stack: assets, channels, tracking, campaigns. You get a written report with every gap identified and a prioritized roadmap. No commitment to build with us — the audit is yours to keep.
+
+**Best for:** "I know something's broken but I don't know where to start"
+
+### 2. Intelligence Build — $2,500–$5,000 (project-based)
+We design and build the full system: DAM, multi-channel delivery, performance dashboards, campaign optimization. You own everything. We train your team.
+
+**Best for:** "I know what I need, I just need someone to build it"
+
+### 3. Intelligence Partner — $1,000+/month (retainer)
+We built it, and now we keep it running: continuous monitoring, optimization, reporting, and ongoing improvements. Your infrastructure evolves as your business grows.
+
+**Best for:** "I want my marketing intelligence maintained and improved over time"
+
+## What's Included in Every Engagement
+
+- ✅ Free 30-minute consultation (no pressure)
+- ✅ You own all the infrastructure we build — no black boxes
+- ✅ We train your team, not just deliver and disappear
+- ✅ 30 days of support after handover
+
+## Ready to Start?
+
+If you've read the case studies and know where you fit, the next step is simple:
+
+👉 [Book your free consultation](https://calendly.com/mot-innovation/consult)
+
+On the call, we'll figure out which engagement makes sense for you. If you're not ready to commit, the audit at $500 is a great starting point — and it can be credited toward a full build.
+
+Talk soon,
+**M.O.T Innovation Team**
+hello@motinnovation.co.za
+https://motinnovation.co.za/pricing
