@@ -111,6 +111,7 @@ def get_authenticated_service():
     _check_credentials()
 
     from google.oauth2.credentials import Credentials
+    from google.auth.transport.requests import Request
     from google_auth_oauthlib.flow import InstalledAppFlow
     from googleapiclient.discovery import build
 
@@ -121,7 +122,9 @@ def get_authenticated_service():
         try:
             creds = Credentials.from_authorized_user_file(str(TOKEN_FILE), SCOPES)
             if creds and creds.expired and creds.refresh_token:
-                creds.refresh(None)
+                # refresh() requires a Request object — passing None raises
+                # TypeError and silently falls through to re-auth every run.
+                creds.refresh(Request())
                 _save_token(creds)
         except Exception as e:
             print(f"   ⚠️  Could not load saved token: {e}")
