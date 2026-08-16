@@ -1,1 +1,648 @@
-[]
+[
+  {
+    "file_name": "yt_short_disconnected_marketing_tools_20260804_220511.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "mDk5f7opNV671LGAdtK9Kl",
+        "results": [
+          {
+            "id": "yt_script_8ce17efbcb95",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-16T03:36:03.961874"
+  },
+  {
+    "file_name": "yt_short_disconnected_marketing_tools_20260804_220606.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "VezldNpRgnuOcqQfdcMr9z",
+        "results": [
+          {
+            "id": "yt_script_ddb92258c3ac",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-16T03:36:06.894476"
+  },
+  {
+    "file_name": "yt_short_disconnected_marketing_tools_20260804_220854.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "mDk5f7opNV671LGAdtK9Ra",
+        "results": [
+          {
+            "id": "yt_script_147cee632f84",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-16T03:36:09.976859"
+  },
+  {
+    "file_name": "yt_short_disconnected_marketing_tools_20260804_221005.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "mDk5f7opNV671LGAdtK9YP",
+        "results": [
+          {
+            "id": "yt_script_eba3ad666c18",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-16T03:36:12.761260"
+  },
+  {
+    "file_name": "yt_short_disconnected_marketing_tools_20260804_221113.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "VezldNpRgnuOcqQfdcMrEa",
+        "results": [
+          {
+            "id": "yt_script_fcb6121edb21",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-16T03:36:15.628041"
+  },
+  {
+    "file_name": "yt_short_manual_social_media_posting_takes_too_long_20260804_220606.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "mDk5f7opNV671LGAdtK9fE",
+        "results": [
+          {
+            "id": "yt_script_20975e230388",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-16T03:36:18.527283"
+  },
+  {
+    "file_name": "yt_short_manual_social_media_posting_takes_too_long_20260804_221113.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "mDk5f7opNV671LGAdtK9qb",
+        "results": [
+          {
+            "id": "yt_script_3afff3620566",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-16T03:36:21.038963"
+  },
+  {
+    "file_name": "yt_short_marketing_reporting_takes_too_long_20260804_220606.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "VezldNpRgnuOcqQfdcMrIG",
+        "results": [
+          {
+            "id": "yt_script_ee957e0442a6",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-16T03:36:23.915124"
+  },
+  {
+    "file_name": "yt_short_marketing_reporting_takes_too_long_20260804_221113.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "VezldNpRgnuOcqQfdcMrL1",
+        "results": [
+          {
+            "id": "yt_script_7559470c0a0d",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-16T03:36:26.801557"
+  },
+  {
+    "file_name": "yt_short_scattered_marketing_assets_no_dam_20260804_220606.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "mDk5f7opNV671LGAdtK9zh",
+        "results": [
+          {
+            "id": "yt_script_64301c00eb44",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-16T03:36:29.558144"
+  },
+  {
+    "file_name": "yt_short_scattered_marketing_assets_no_dam_20260804_221113.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "mDk5f7opNV671LGAdtKA6W",
+        "results": [
+          {
+            "id": "yt_script_3be3ee81180d",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-16T03:36:32.104306"
+  },
+  {
+    "file_name": "yt_short_scattered_marketing_assets_no_dam_20260804_221237.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "Rsfi9AiN7zSlqCmOz5DMld",
+        "results": [
+          {
+            "id": "yt_script_ea76671da556",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-16T03:36:34.981128"
+  },
+  {
+    "file_name": "yt_short_want_someone_to_build_not_just_advise_20260804_220606.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "mDk5f7opNV671LGAdtKADL",
+        "results": [
+          {
+            "id": "yt_script_a89e8854b5b6",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-16T03:36:37.946309"
+  },
+  {
+    "file_name": "yt_short_want_someone_to_build_not_just_advise_20260804_221113.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "Rsfi9AiN7zSlqCmOz5DN0O",
+        "results": [
+          {
+            "id": "yt_script_ce6f9b885c55",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-16T03:36:40.831279"
+  },
+  {
+    "file_name": "yt_short_wasting_money_on_ads_no_a_b_testing_20260804_220606.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "VezldNpRgnuOcqQfdcMrQX",
+        "results": [
+          {
+            "id": "yt_script_517f3c08bb42",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-16T03:36:43.593250"
+  },
+  {
+    "file_name": "yt_short_wasting_money_on_ads_no_a_b_testing_20260804_221113.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "Rsfi9AiN7zSlqCmOz5DNF9",
+        "results": [
+          {
+            "id": "yt_script_58e0842e3757",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-16T03:36:45.961849"
+  },
+  {
+    "file_name": "yt_short_wasting_money_on_ads_no_a_b_testing_20260806_084054.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "VezldNpRgnuOcqQfdcMrTI",
+        "results": [
+          {
+            "id": "yt_script_20ddcd5ea603",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-16T03:36:48.855094"
+  },
+  {
+    "file_name": "linkedin_post_disconnected_marketing_tools_20260804_220606.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "mDk5f7opNV671LGAdtKAKA",
+        "results": [
+          {
+            "id": "li_post_dac563f4d6ff",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-16T03:36:51.618383"
+  },
+  {
+    "file_name": "linkedin_post_disconnected_marketing_tools_20260804_221113.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "VezldNpRgnuOcqQfdcMrW3",
+        "results": [
+          {
+            "id": "li_post_993f72b6e4e6",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-16T03:36:54.626223"
+  },
+  {
+    "file_name": "linkedin_post_manual_social_media_posting_takes_too_long_20260804_220606.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "mDk5f7opNV671LGAdtKAQz",
+        "results": [
+          {
+            "id": "li_post_7eab38e5d313",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-16T03:36:57.101998"
+  },
+  {
+    "file_name": "linkedin_post_manual_social_media_posting_takes_too_long_20260804_221113.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "Rsfi9AiN7zSlqCmOz5DOam",
+        "results": [
+          {
+            "id": "li_post_1a5bbe07fdfb",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-16T03:37:00.110735"
+  },
+  {
+    "file_name": "linkedin_post_marketing_reporting_takes_too_long_20260804_220606.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "Rsfi9AiN7zSlqCmOz5DOpX",
+        "results": [
+          {
+            "id": "li_post_57912b532b94",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-16T03:37:02.877423"
+  },
+  {
+    "file_name": "linkedin_post_marketing_reporting_takes_too_long_20260804_221113.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "mDk5f7opNV671LGAdtKAsH",
+        "results": [
+          {
+            "id": "li_post_7e8ce03d5c07",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-16T03:37:05.644019"
+  },
+  {
+    "file_name": "linkedin_post_scattered_marketing_assets_no_dam_20260804_220606.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "VezldNpRgnuOcqQfdcMrh5",
+        "results": [
+          {
+            "id": "li_post_b5afb15f2c15",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-16T03:37:08.135217"
+  },
+  {
+    "file_name": "linkedin_post_scattered_marketing_assets_no_dam_20260804_221113.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "VezldNpRgnuOcqQfdcMrjq",
+        "results": [
+          {
+            "id": "li_post_be307e558bde",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-16T03:37:10.901818"
+  },
+  {
+    "file_name": "linkedin_post_scattered_marketing_assets_no_dam_20260804_221237.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "Rsfi9AiN7zSlqCmOz5DPJ3",
+        "results": [
+          {
+            "id": "li_post_07054e2bbf0a",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-16T03:37:13.766793"
+  },
+  {
+    "file_name": "linkedin_post_want_someone_to_build_not_just_advise_20260804_220606.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "Rsfi9AiN7zSlqCmOz5DPXo",
+        "results": [
+          {
+            "id": "li_post_89c16c985b7b",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-16T03:37:16.048872"
+  },
+  {
+    "file_name": "linkedin_post_want_someone_to_build_not_just_advise_20260804_221113.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "VezldNpRgnuOcqQfdcMrmb",
+        "results": [
+          {
+            "id": "li_post_d309b42988a9",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-16T03:37:19.161265"
+  },
+  {
+    "file_name": "linkedin_post_wasting_money_on_ads_no_a_b_testing_20260804_220606.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "mDk5f7opNV671LGAdtKAz6",
+        "results": [
+          {
+            "id": "li_post_418ca9c35ef8",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-16T03:37:21.931137"
+  },
+  {
+    "file_name": "linkedin_post_wasting_money_on_ads_no_a_b_testing_20260804_221113.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "Rsfi9AiN7zSlqCmOz5DQ1K",
+        "results": [
+          {
+            "id": "li_post_8eac109524b8",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-16T03:37:24.788744"
+  },
+  {
+    "file_name": "linkedin_post_wasting_money_on_ads_no_a_b_testing_20260806_084054.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "VezldNpRgnuOcqQfdcMrpM",
+        "results": [
+          {
+            "id": "li_post_9bbfdf96bb2c",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-16T03:37:27.797228"
+  },
+  {
+    "file_name": "carousel_disconnected_tools_20260804_220556.json",
+    "platform": "LinkedIn",
+    "type": "carousel",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "VezldNpRgnuOcqQfdcMrs7",
+        "results": [
+          {
+            "id": "carousel_ff0265559ed5",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-16T03:37:31.193462"
+  },
+  {
+    "file_name": "carousel_disconnected_tools_20260804_220823.json",
+    "platform": "LinkedIn",
+    "type": "carousel",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "mDk5f7opNV671LGAdtKBJZ",
+        "results": [
+          {
+            "id": "carousel_93dbc11fe16c",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-16T03:37:34.093105"
+  },
+  {
+    "file_name": "carousel_scattered_assets_20260804_221251.json",
+    "platform": "LinkedIn",
+    "type": "carousel",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "VezldNpRgnuOcqQfdcMrus",
+        "results": [
+          {
+            "id": "carousel_2414b096f884",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-16T03:37:37.109741"
+  }
+]

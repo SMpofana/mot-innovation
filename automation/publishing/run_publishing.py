@@ -175,9 +175,18 @@ def find_video_for_script(script_path: Path) -> Path | None:
 
 
 def get_published_filenames() -> set[str]:
-    """Get the set of filenames already logged as published."""
+    """Get the set of filenames already ACTUALLY published to a platform.
+
+    Only entries with an upload/webhook action (youtube_upload, linkedin_webhook)
+    count as "published". Sanity-sync entries must NOT be treated as published —
+    a doc synced to Sanity still needs to be uploaded to YouTube/LinkedIn.
+    """
     log = load_publishing_log()
-    return {entry.get("file_name", "") for entry in log}
+    return {
+        entry.get("file_name", "")
+        for entry in log
+        if entry.get("action") in ("youtube_upload", "linkedin_webhook")
+    }
 
 
 # ── Calendar update ────────────────────────────────────────────────────────────
