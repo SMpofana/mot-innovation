@@ -32,6 +32,7 @@ automation/publishing/client_secrets.json
 automation/publishing/youtube_token.json
 automation/content_engine/audio/
 automation/content_engine/videos/
+automation/content_engine/videos/_anim_tmp/
 automation/content_engine/scripts/
 automation/content_engine/carousels/
 automation/content_engine/calendar/

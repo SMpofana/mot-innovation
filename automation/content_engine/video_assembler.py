@@ -186,6 +186,28 @@ def parse_script(md_path: Path) -> dict[str, Any]:
     }
 
 
+def _is_valid_video(path: Path) -> bool:
+    """Return True if the file is a plausible, non-corrupt video.
+
+    A corrupt/interrupted ffmpeg run leaves a tiny stub (no moov atom) that
+    ffprobe rejects. Reusing it uploads garbage to YouTube. Treat files under
+    a sane minimum size as invalid so they get re-assembled.
+    """
+    if not path.exists():
+        return False
+    try:
+        if path.stat().st_size < 10_000:  # 10KB floor — real videos are 500KB+
+            return False
+        probe = subprocess.run(
+            ["ffprobe", "-v", "error", "-show_entries", "format=duration",
+             "-of", "default=noprint_wrappers=1:nokey=1", str(path)],
+            capture_output=True, timeout=30,
+        )
+        return probe.returncode == 0 and probe.stdout.strip() not in ("", "N/A")
+    except Exception:
+        return False
+
+
 def assemble_from_files(script_path: Path, audio_path: Path | None = None) -> Path | None:
     """Assemble a video from a script file and optional audio file."""
     if not audio_path:
@@ -197,9 +219,13 @@ def assemble_from_files(script_path: Path, audio_path: Path | None = None) -> Pa
     script_data = parse_script(script_path)
     output_path = OUTPUT_DIR / f"{script_path.stem}.mp4"
 
-    if output_path.exists():
+    if _is_valid_video(output_path):
         print(f"   ⏭️  Video already exists: {output_path.name}")
         return output_path
+
+    if output_path.exists():
+        print(f"   ⚠️  Existing video is corrupt/invalid — re-assembling: {output_path.name}")
+        output_path.unlink(missing_ok=True)
 
     return assemble_video(script_data, audio_path, output_path)
 
