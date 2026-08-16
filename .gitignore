@@ -39,3 +39,11 @@ automation/content_engine/calendar/
 automation/leads/
 automation/reports/
 automation/logs/
+
+# OpenNext
+.open-next
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
