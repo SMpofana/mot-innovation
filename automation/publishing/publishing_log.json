@@ -739,5 +739,17 @@
       "status_code": 200
     },
     "timestamp": "2026-08-16T10:29:55.318002"
+  },
+  {
+    "file_name": "linkedin_post_disconnected_marketing_tools_20260804_221113.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "linkedin_webhook",
+    "image_url": "https://files.catbox.moe/8giblr.png",
+    "result": {
+      "status": "sent",
+      "status_code": 200
+    },
+    "timestamp": "2026-08-16T10:42:21.485291"
   }
 ]
