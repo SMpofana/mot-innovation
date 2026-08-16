@@ -644,5 +644,140 @@
       }
     },
     "timestamp": "2026-08-16T03:37:37.109741"
+  },
+  {
+    "file_name": "yt_short_disconnected_marketing_tools_20260804_220511.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "mDk5f7opNV671LGAdts0r3",
+        "results": [
+          {
+            "id": "yt_script_eba489a59b2e",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-16T09:08:17.070825"
+  },
+  {
+    "file_name": "linkedin_post_disconnected_marketing_tools_20260804_220606.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "Rsfi9AiN7zSlqCmOz6JN3E",
+        "results": [
+          {
+            "id": "li_post_39419d97328b",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-16T09:08:19.077650"
+  },
+  {
+    "file_name": "carousel_disconnected_tools_20260804_220556.json",
+    "platform": "LinkedIn",
+    "type": "carousel",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "mDk5f7opNV671LGAdts0xs",
+        "results": [
+          {
+            "id": "carousel_16f3030dc584",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-16T09:08:22.044693"
+  },
+  {
+    "file_name": "yt_short_disconnected_marketing_tools_20260804_220511.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "youtube_upload",
+    "video_id": "eDEP524x8ws",
+    "result": {
+      "video_id": "eDEP524x8ws",
+      "video_url": "https://www.youtube.com/watch?v=eDEP524x8ws",
+      "status": "uploaded",
+      "title": "Disconnected marketing tools — How We Fix It | M.O.T Innovation",
+      "response": {
+        "kind": "youtube#video",
+        "etag": "Oue3tWzY3TUjJkpVniEx9oVTAug",
+        "id": "eDEP524x8ws",
+        "snippet": {
+          "publishedAt": "2026-08-16T07:08:28Z",
+          "channelId": "UCMoSUZ8kie1ucWbsCUKy0-g",
+          "title": "Disconnected marketing tools — How We Fix It | M.O.T Innovation",
+          "description": "The average marketing team uses 12+ tools and fewer than half talk to each other. Stop hunting for files. A proper DAM system means finding any asset in seconds, not hours. Book a free consultation at https://motinnovation.co.za/contact?utm_source=content_engine&utm_medium=youtube_short&utm_campaign=disconnected_tools&utm_content=dam\n\n#shorts",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eDEP524x8ws/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eDEP524x8ws/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eDEP524x8ws/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Marketing of Things",
+          "tags": [
+            "dam",
+            "disconnected tools",
+            "faceless content",
+            "marketing",
+            "marketing automation",
+            "marketing infrastructure"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "Disconnected marketing tools — How We Fix It | M.O.T Innovation",
+            "description": "The average marketing team uses 12+ tools and fewer than half talk to each other. Stop hunting for files. A proper DAM system means finding any asset in seconds, not hours. Book a free consultation at https://motinnovation.co.za/contact?utm_source=content_engine&utm_medium=youtube_short&utm_campaign=disconnected_tools&utm_content=dam\n\n#shorts"
+          }
+        },
+        "status": {
+          "uploadStatus": "uploaded",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "selfDeclaredMadeForKids": false
+        }
+      }
+    },
+    "timestamp": "2026-08-16T09:08:29.994944"
+  },
+  {
+    "file_name": "linkedin_post_disconnected_marketing_tools_20260804_220606.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "linkedin_webhook",
+    "result": {
+      "status": "sent",
+      "status_code": 200,
+      "response": "Accepted",
+      "webhook_url": "https://hook.us2.make.com/7euwjhx5wg27gjhfj2sbp1mda5022cc9"
+    },
+    "timestamp": "2026-08-16T09:08:32.296225"
   }
 ]
