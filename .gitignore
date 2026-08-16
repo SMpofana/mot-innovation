@@ -29,6 +29,7 @@ Thumbs.db
 automation/.env
 automation/publishing/youtube_token.json
 automation/publishing/client_secrets.json
+automation/publishing/linkedin_token.json
 automation/publishing/youtube_token.json
 automation/content_engine/audio/
 automation/content_engine/videos/
