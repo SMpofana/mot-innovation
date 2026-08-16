@@ -410,6 +410,36 @@ def publish_to_youtube(
     return result
 
 
+def _find_carousel_cover(script_path: Path) -> str:
+    """Find and free-host a carousel cover image matching a LinkedIn post.
+
+    Matches the post's pain point to a carousel's metadata.pain_point, renders
+    its first slide if needed, uploads to catbox.moe, and returns the public
+    URL. Returns "" if no match or upload fails (post still sends text-only).
+    """
+    try:
+        import re as _re
+        md = script_path.read_text(encoding="utf-8")
+        pp_match = _re.search(r"\*\*Pain Point:\*\*\s*(.+)", md)
+        if not pp_match:
+            return ""
+        pain_point = pp_match.group(1).strip()
+
+        carousel_dir = CONTENT_ENGINE_DIR / "carousels"
+        for cj in sorted(carousel_dir.glob("carousel_*.json")):
+            try:
+                meta = json.loads(cj.read_text(encoding="utf-8")).get("metadata", {})
+            except Exception:
+                continue
+            if meta.get("pain_point", "").strip() == pain_point:
+                sys.path.insert(0, str(CONTENT_ENGINE_DIR))
+                from image_host import upload_carousel_cover
+                return upload_carousel_cover(cj)
+    except Exception as e:
+        print(f"      ⚠️  Carousel cover attach failed ({e}), posting text-only")
+    return ""
+
+
 def publish_to_linkedin(
     script_path: Path,
     webhook_url: str = "",
@@ -431,8 +461,12 @@ def publish_to_linkedin(
     text = parsed["text"]
     link = parsed["link"]
 
+    # Attach a matching carousel cover image (free-hosted) so the post has
+    # both text AND an image. Match by pain point.
+    image_url = _find_carousel_cover(script_path)
+
     # Create the webhook payload
-    payload = create_webhook_payload(text, link=link)
+    payload = create_webhook_payload(text, image_url=image_url, link=link)
 
     if dry_run:
         return {
