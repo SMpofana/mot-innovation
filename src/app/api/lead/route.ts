@@ -55,6 +55,45 @@ export async function POST(request: NextRequest) {
 
     console.log('[M.O.T Lead Capture]', JSON.stringify(lead, null, 2));
 
+    // Hand the lead to the Python automation pipeline when running in a local
+    // dev environment where the automation/ dir is present. On Render
+    // (serverless) the Python pipeline doesn't ship, so we gracefully skip.
+    let pipeline: 'local' | 'skipped' = 'skipped';
+    let pipelineError: string | null = null;
+    try {
+      const { execFile } = await import('child_process');
+      const { promisify } = await import('util');
+      const path = await import('path');
+      const execFileAsync = promisify(execFile);
+
+      const projectRoot = path.resolve(process.cwd());
+      const automationDir = path.join(projectRoot, 'automation');
+      const leadCapture = path.join(automationDir, 'lead_capture.py');
+
+      const { existsSync } = await import('fs');
+      if (existsSync(leadCapture)) {
+        const payload = {
+          name,
+          email,
+          business: business || '',
+          stage: stage || '',
+          message: message || '',
+          source: source || 'website-contact-form',
+          user_agent: request.headers.get('user-agent') || '',
+          referrer,
+        };
+        await execFileAsync('python', [leadCapture, '--lead', JSON.stringify(payload)], {
+          cwd: projectRoot,
+          timeout: 15000,
+        });
+        pipeline = 'local';
+      }
+    } catch (err) {
+      pipeline = 'skipped';
+      pipelineError = err instanceof Error ? err.message : String(err);
+      console.error('[M.O.T Lead Capture] Python pipeline not invoked:', pipelineError);
+    }
+
     // TODO: Wire up to actual email/CRM service
     // Example with Resend:
     // await fetch('https://api.resend.com/emails', {
@@ -75,6 +114,8 @@ export async function POST(request: NextRequest) {
       success: true,
       message: 'Lead captured successfully',
       leadId: `lead_${Date.now()}`,
+      pipeline,
+      ...(pipelineError ? { pipelineError } : {}),
     });
   } catch (error) {
     console.error('[Lead Capture Error]', error);

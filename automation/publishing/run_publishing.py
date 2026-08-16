@@ -675,11 +675,19 @@ def run_pipeline(
     # ── Step 5: Log ──
     print("── Step 5: Logging ──")
 
+    # Only persist entries that were ACTUALLY published (not dry runs).
+    # A dry run should never write to the publishing log, otherwise the
+    # filenames get marked "already published" and real runs skip them.
+    real_entries = [
+        e for e in published_log
+        if e.get("result", {}).get("status") not in ("dry_run",)
+    ]
+
     # Add new entries to the log
-    if published_log:
-        for entry in published_log:
+    if real_entries:
+        for entry in real_entries:
             add_to_log(entry)
-        print(f"   ✅ {len(published_log)} entries logged to {PUBLISHING_LOG}")
+        print(f"   ✅ {len(real_entries)} entries logged to {PUBLISHING_LOG}")
     else:
         print("   ℹ️  Nothing new to log")
 
@@ -690,7 +698,7 @@ def run_pipeline(
     print(f"YouTube scripts processed:  {len(yt_scripts)}")
     print(f"LinkedIn posts processed:   {len(li_scripts)}")
     print(f"Carousels processed:        {len(carousels)}")
-    print(f"Total published entries:    {len(published_log)}")
+    print(f"Published (logged):         {len(real_entries)}")
     print(f"Log file:                   {PUBLISHING_LOG}")
     print(f"\n✅ Publishing pipeline complete!")
     print(f"{'=' * 60}")

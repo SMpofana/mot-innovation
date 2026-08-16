@@ -55,10 +55,30 @@ PROJECT_ROOT = SCRIPT_DIR.parent.parent  # mot_innovation/
 ENV_PATH = PROJECT_ROOT / ".env.local"
 load_dotenv(ENV_PATH)
 
-SANITY_API_TOKEN = os.getenv("SANITY_API_TOKEN", "")
-SANITY_PROJECT_ID = os.getenv("SANITY_PROJECT_ID", "mot_innovation")
-SANITY_DATASET = os.getenv("SANITY_DATASET", "production")
-SANITY_API_VERSION = os.getenv("SANITY_API_VERSION", "2024-01-01")
+SANITY_API_TOKEN = os.getenv("SANITY_API_TOKEN", "").strip()
+SANITY_PROJECT_ID = os.getenv("SANITY_PROJECT_ID", "").strip()
+SANITY_DATASET = os.getenv("SANITY_DATASET", "production").strip()
+SANITY_API_VERSION = os.getenv("SANITY_API_VERSION", "2024-01-01").strip()
+
+# Placeholder project IDs (from the initial .env scaffold) — these are NOT
+# real Sanity projects and will fail DNS/SSL/auth. Fail loudly instead of
+# silently trying to reach a bogus host.
+_PLACEHOLDER_PROJECT_IDS = {
+    "mot_innovation", "your_project_id", "your-sanity-project-id", "xxx",
+    "<replace_with_real_sanity_project_id>", "project_id", "your_project",
+}
+if SANITY_PROJECT_ID.lower() in _PLACEHOLDER_PROJECT_IDS or (
+    "<" in SANITY_PROJECT_ID and ">" in SANITY_PROJECT_ID
+):
+    raise ValueError(
+        "SANITY_PROJECT_ID is set to a placeholder value "
+        f"('{SANITY_PROJECT_ID}'). Create a real Sanity project and set its "
+        f"actual project ID (a short alphanumeric string, e.g. 'a1b2c3d4') "
+        f"in {ENV_PATH}."
+    )
+if SANITY_PROJECT_ID.startswith((" ", "-")):
+    raise ValueError(f"SANITY_PROJECT_ID has invalid leading whitespace: {SANITY_PROJECT_ID!r}")
+
 
 # API endpoints
 MUTATE_URL = (
