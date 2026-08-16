@@ -354,28 +354,35 @@ def publish_to_youtube(
                      f"Looked in {AUDIO_DIR}",
         }
 
-    # Assemble an animated video (Ken Burns + crossfades + progress bar) from
-    # the script + audio. Prefer the animated generator; fall back to the
-    # static assembler if it's unavailable.
+    # Assemble a cartoon animated video (flat-vector scenes + Ken Burns +
+    # crossfades + progress bar) from the script + audio. Prefer the cartoon
+    # generator; fall back to the text-animated generator, then static, then
+    # audio-only.
     if audio_file and not dry_run:
         try:
             sys.path.insert(0, str(SCRIPT_DIR.parent / "content_engine"))
-            from animated_video import assemble_animated
-            assembled = assemble_animated(script_path, audio_file)
+            from cartoon_video import assemble_cartoon
+            assembled = assemble_cartoon(script_path, audio_file)
             if assembled:
                 upload_file = assembled
                 is_short = True
             else:
                 upload_file = audio_file
         except Exception as e:
-            print(f"      ⚠️  Animated assembly failed ({e}), falling back to static")
+            print(f"      ⚠️  Cartoon assembly failed ({e}), falling back to animated")
             try:
-                from video_assembler import assemble_from_files
-                assembled = assemble_from_files(script_path, audio_file)
+                from animated_video import assemble_animated
+                assembled = assemble_animated(script_path, audio_file)
                 upload_file = assembled or audio_file
             except Exception as e2:
-                print(f"      ⚠️  Static assembly failed ({e2}), uploading audio only")
-                upload_file = audio_file
+                print(f"      ⚠️  Animated assembly failed ({e2}), falling back to static")
+                try:
+                    from video_assembler import assemble_from_files
+                    assembled = assemble_from_files(script_path, audio_file)
+                    upload_file = assembled or audio_file
+                except Exception as e3:
+                    print(f"      ⚠️  Static assembly failed ({e3}), uploading audio only")
+                    upload_file = audio_file
     else:
         upload_file = video_file or audio_file
     is_short = "yt_short" in script_path.name
