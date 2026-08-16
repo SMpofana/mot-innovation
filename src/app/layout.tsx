@@ -10,6 +10,8 @@ import Footer from "../components/Footer";
 import BackToTop from "../components/BackToTop";
 import Chatbot from "../components/Chatbot";
 
+// Redeploy trigger: ensure privacy/terms pages ship in the live build.
+
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
