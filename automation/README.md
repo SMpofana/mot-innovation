@@ -243,6 +243,36 @@ python run_all.py --verbose          # Verbose output
 
 ---
 
+## Scheduled Automation (`scheduler_run.py`)
+
+Runs the three pipelines on a schedule via Windows Task Scheduler. Output is
+tee'd to a timestamped log under `automation/logs/`.
+
+```bash
+python scheduler_run.py                 # All three pipelines
+python scheduler_run.py --content-only   # Content engine only
+python scheduler_run.py --publish-only   # Publishing (Sanity + YouTube + LinkedIn)
+python scheduler_run.py --ops-only       # Business ops (run_all.py)
+```
+
+**Registered Windows tasks** (daily):
+| Task | Time | Runs |
+|------|------|------|
+| `MOT_ContentEngine` | 06:00 | `--content-only` |
+| `MOT_Publishing` | 08:00 | `--publish-only` |
+| `MOT_BusinessOps` | 09:00 | `--ops-only` |
+
+Re-register after moving the repo:
+```bash
+schtasks /Create /TN "MOT_ContentEngine" /TR "\"<python>\" \"<repo>\automation\scheduler_run.py\" --content-only" /SC DAILY /ST 06:00 /F
+```
+
+> **Note:** `--publish-only` will block on the YouTube OAuth browser flow until
+> `youtube_token.json` exists (run `python publishing/youtube_upload.py --auth-only`
+> once to complete it).
+
+---
+
 ## Integration Notes
 
 ### Website Lead API (`/api/lead`)
