@@ -94,24 +94,32 @@ def enhance_hook(pain_point_title: str, pain_point_stat: str) -> str | None:
 PAIN POINT: {pain_point_title}
 STAT: {pain_point_stat}
 
-Write ONE sentence (5 seconds spoken) that aggressively states the problem.
-Direct, no fluff, speaks to frustrated business owners.
-Do not use quotes, do not explain — just the hook sentence."""
+Write ONE sentence (5 seconds spoken) that aggressively states the problem AND makes the viewer feel the cost of NOT fixing it. Lead with the pain, then the loss — what they're bleeding every week they stay stuck. Dramatise the impact: make it vivid and visceral, not clinical.
+
+Rules:
+- 70% education (the real problem), 20% entertainment (a sharp, memorable line), 10% selling (a hint of the fix)
+- Direct, no fluff, speaks to frustrated business owners
+- Do not use quotes, do not explain — just the hook sentence
+- Make the cost of inaction tangible (hours, money, missed growth)"""
 
     return _call_gemini(prompt, max_tokens=60, temperature=0.8)
 
 
 def enhance_problem(pain_point_title: str, pain_point_stat: str, pain_point_summary: str) -> str | None:
     """Generate AI-powered problem agitation (5-15 seconds)."""
-    prompt = f"""You are writing a YouTube Short problem agitation section.
+    prompt = f"""You are writing a YouTube Short problem agitation section for M.O.T Innovation.
 
 PAIN POINT: {pain_point_title}
 STAT: {pain_point_stat}
 SUMMARY: {pain_point_summary}
 
-Write 2-3 sentences (10 seconds spoken) that agitate the pain.
-Include the stat naturally. Make the viewer feel the cost of inaction.
-Direct, professional, no fluff."""
+Write 2-3 sentences (10 seconds spoken) that agitate the pain AND dramatise the cost of inaction. Make the viewer feel what they're losing RIGHT NOW by staying stuck — the hours, the money, the missed opportunities, the frustration. Use loss aversion: paint the pain of the current state vividly, then hint at what they're missing.
+
+Rules:
+- 70% education (the real problem), 20% entertainment (a sharp, memorable line), 10% selling (a hint of the fix)
+- Include the stat naturally
+- Make the cost of inaction tangible and emotional, not abstract
+- Direct, professional, no fluff"""
 
     return _call_gemini(prompt, max_tokens=120, temperature=0.7)
 
@@ -126,9 +134,13 @@ DESCRIPTION: {service_description}
 ANGLE: {service_angle}
 CASE STUDY: {case_study_text}
 
-Write 4-5 sentences (30 seconds spoken) explaining how M.O.T Innovation solves the problem.
-Mention the service name, what it does, and the case study result.
-Professional, direct, benefit-focused. No fluff."""
+Write 4-5 sentences (30 seconds spoken) explaining how M.O.T Innovation solves the problem. Lead with the IMPACT of the fix — the concrete result the client gets (time back, money saved, growth). Contrast it with the cost of inaction you just dramatised: "instead of X hours lost, you get Y." Use the case study as proof of the impact.
+
+Rules:
+- 70% education (how the system works), 20% entertainment (a memorable, confident line), 10% selling (the CTA pull)
+- Mention the service name, what it does, and the case study result
+- Emphasise the IMPACT of the service, not just the features
+- Professional, direct, benefit-focused. No fluff."""
 
     return _call_gemini(prompt, max_tokens=200, temperature=0.7)
 
@@ -146,7 +158,10 @@ ANGLE: {service_angle}
 CASE STUDY: {case_study_text}
 
 Rules:
-- Start with a bold hook (no "Hey LinkedIn!")
+- Start with a bold hook (no "Hey LinkedIn!") that states the pain AND the cost of not fixing it
+- 70% education (the real problem + how it's solved), 20% entertainment (a sharp, memorable line), 10% selling (the CTA)
+- Dramatise the impact: make the reader feel what they're losing by staying stuck, then the concrete result of the fix
+- Use the case study as proof of impact
 - 100-150 words maximum
 - Use line breaks for readability
 - End with a CTA: "Book a free consultation at motinnovation.co.za"

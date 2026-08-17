@@ -107,8 +107,8 @@ def generate_youtube_short(pain_point: dict, service: dict, case_study: dict | N
         cs_text = f" Like {cs['client']}: {cs['result']}"
 
     # AI-enhanced content (falls back to templates if Gemini unavailable)
-    hook_vo = f"{pp_title}."
-    problem_vo = f"{pp_summary} {pp_stat} If that sounds familiar, you're losing time and money every single week."
+    hook_vo = f"{pp_title}. Every week you stay stuck, it costs you time and money."
+    problem_vo = f"{pp_summary} {pp_stat} That's hours lost and budget wasted — every single week you don't fix it."
     solution_vo = f"{svc_angle} {BRAND_NAME} builds {svc_name}. {service['description'][:120]} {cs_text}"
 
     if GEMINI_AVAILABLE:
@@ -126,25 +126,25 @@ def generate_youtube_short(pain_point: dict, service: dict, case_study: dict | N
         {
             "section": "Hook",
             "timing": "0-5s",
-            "visual": f"[VISUAL: Bold text on dark background — \"{pp_title}\"]\n[VISUAL: Fast zoom-in effect, dramatic music sting]",
+            "visual": f"[VISUAL: Bold text on dark background — \"{pp_title}\"]\n[VISUAL: Fast zoom-in effect, dramatic music sting]\n[VISUAL: Animated counter ticking up — hours/money lost]",
             "voiceover": hook_vo,
         },
         {
             "section": "Problem Agitation",
             "timing": "5-15s",
-            "visual": f"[VISUAL: Split screen — messy folders / multiple browser tabs / frustrated person]\n[VISUAL: Text overlay — \"{pp_stat}\"]",
+            "visual": f"[VISUAL: Split screen — messy folders / multiple browser tabs / frustrated person]\n[VISUAL: Text overlay — \"{pp_stat}\"]\n[VISUAL: Animated red X over scattered tools, clock spinning — time bleeding away]",
             "voiceover": problem_vo,
         },
         {
             "section": "Solution",
             "timing": "15-45s",
-            "visual": f"[VISUAL: Clean dashboard interface, organized asset library, automated workflow diagram]\n[VISUAL: Screen recording of {service['short']} system in action]\n[VISUAL: Text overlay — \"{svc_deliverable}\"]" + (f"\n[VISUAL: Text overlay — \"{case_study['result_stat']}\"]" if case_study else ""),
+            "visual": f"[VISUAL: Clean dashboard interface, organized asset library, automated workflow diagram]\n[VISUAL: Screen recording of {service['short']} system in action]\n[VISUAL: Text overlay — \"{svc_deliverable}\"]\n[VISUAL: Animated green checkmarks connecting tools, clock slowing to a stop]" + (f"\n[VISUAL: Text overlay — \"{case_study['result_stat']}\"]" if case_study else ""),
             "voiceover": solution_vo,
         },
         {
             "section": "CTA",
             "timing": "45-60s",
-            "visual": f"[VISUAL: Logo — {BRAND_NAME}]\n[VISUAL: Text overlay — \"Book a Free Consultation\"]\n[VISUAL: URL on screen — {utm_link}]",
+            "visual": f"[VISUAL: Logo — {BRAND_NAME}]\n[VISUAL: Text overlay — \"Book a Free Consultation\"]\n[VISUAL: URL on screen — {utm_link}]\n[VISUAL: Animated arrow pointing to the CTA button]",
             "voiceover": f"Book a free consultation at motinnovation.co.za. We don't build slide decks — we build working systems. Link in the description.",
         },
     ]
@@ -257,6 +257,8 @@ def generate_linkedin_post(pain_point: dict, service: dict, case_study: dict | N
     post_content = f"""{pp_stat}
 
 {pp_summary}
+
+Every week you stay stuck, that's hours lost and budget wasted — money you'll never get back.
 
 The fix isn't more tools. It's better infrastructure.
 
