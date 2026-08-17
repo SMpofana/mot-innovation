@@ -775,5 +775,1947 @@
       "status_code": 200
     },
     "timestamp": "2026-08-16T12:05:07.754873"
+  },
+  {
+    "file_name": "yt_short_disconnected_marketing_tools_20260804_220606.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "Rsfi9AiN7zSlqCmOzB6UvM",
+        "results": [
+          {
+            "id": "yt_script_5f24be5da206",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:00:09.110171"
+  },
+  {
+    "file_name": "yt_short_disconnected_marketing_tools_20260804_220854.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "mDk5f7opNV671LGAdw8UOO",
+        "results": [
+          {
+            "id": "yt_script_b6eddcca70ef",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:00:11.574099"
+  },
+  {
+    "file_name": "yt_short_disconnected_marketing_tools_20260804_221005.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "VezldNpRgnuOcqQfddTQdt",
+        "results": [
+          {
+            "id": "yt_script_f0e3b2acff8c",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:00:13.946183"
+  },
+  {
+    "file_name": "yt_short_disconnected_marketing_tools_20260804_221113.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "mDk5f7opNV671LGAdw8UuE",
+        "results": [
+          {
+            "id": "yt_script_aa53abc0454f",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:00:16.070448"
+  },
+  {
+    "file_name": "yt_short_disconnected_marketing_tools_20260816_060010.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "VezldNpRgnuOcqQfddTQrg",
+        "results": [
+          {
+            "id": "yt_script_ffdd86bb8438",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:00:18.084850"
+  },
+  {
+    "file_name": "yt_short_disconnected_marketing_tools_20260817_060012.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "Rsfi9AiN7zSlqCmOzB6WQp",
+        "results": [
+          {
+            "id": "yt_script_e03d1939e2ef",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:00:20.083754"
+  },
+  {
+    "file_name": "yt_short_manual_social_media_posting_takes_too_long_20260804_220606.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "VezldNpRgnuOcqQfddTQuR",
+        "results": [
+          {
+            "id": "yt_script_a8b24cd94467",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:00:22.097883"
+  },
+  {
+    "file_name": "yt_short_manual_social_media_posting_takes_too_long_20260804_221113.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "Rsfi9AiN7zSlqCmOzB6Wfa",
+        "results": [
+          {
+            "id": "yt_script_f9233e837b60",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:00:24.099570"
+  },
+  {
+    "file_name": "yt_short_manual_social_media_posting_takes_too_long_20260816_060015.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "VezldNpRgnuOcqQfddTR5T",
+        "results": [
+          {
+            "id": "yt_script_0061936b2b60",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:00:26.116260"
+  },
+  {
+    "file_name": "yt_short_manual_social_media_posting_takes_too_long_20260817_060017.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "mDk5f7opNV671LGAdw8Vvu",
+        "results": [
+          {
+            "id": "yt_script_4c914caa2037",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:00:29.111742"
+  },
+  {
+    "file_name": "yt_short_marketing_reporting_takes_too_long_20260804_220606.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "mDk5f7opNV671LGAdw8WmD",
+        "results": [
+          {
+            "id": "yt_script_5427a5dc3b64",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:00:31.750828"
+  },
+  {
+    "file_name": "yt_short_marketing_reporting_takes_too_long_20260804_221113.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "mDk5f7opNV671LGAdw8X28",
+        "results": [
+          {
+            "id": "yt_script_4d9c76225e58",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:00:34.130191"
+  },
+  {
+    "file_name": "yt_short_marketing_reporting_takes_too_long_20260816_060024.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "Rsfi9AiN7zSlqCmOzB6gpG",
+        "results": [
+          {
+            "id": "yt_script_04defb9517fd",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:00:38.233650"
+  },
+  {
+    "file_name": "yt_short_marketing_reporting_takes_too_long_20260817_060027.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "Rsfi9AiN7zSlqCmOzB6jgM",
+        "results": [
+          {
+            "id": "yt_script_5c270e858163",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:00:41.193840"
+  },
+  {
+    "file_name": "yt_short_scattered_marketing_assets_no_dam_20260804_220606.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "mDk5f7opNV671LGAdw8flO",
+        "results": [
+          {
+            "id": "yt_script_5fd0ff94343b",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:00:43.144203"
+  },
+  {
+    "file_name": "yt_short_scattered_marketing_assets_no_dam_20260804_221113.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "VezldNpRgnuOcqQfddTVqa",
+        "results": [
+          {
+            "id": "yt_script_454cd8579ed6",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:00:45.167143"
+  },
+  {
+    "file_name": "yt_short_scattered_marketing_assets_no_dam_20260804_221237.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "Rsfi9AiN7zSlqCmOzB6vtw",
+        "results": [
+          {
+            "id": "yt_script_b4f6755aca81",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:00:47.167449"
+  },
+  {
+    "file_name": "yt_short_scattered_marketing_assets_no_dam_20260816_060020.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "mDk5f7opNV671LGAdw8oH0",
+        "results": [
+          {
+            "id": "yt_script_1e62849a6f4f",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:00:49.174588"
+  },
+  {
+    "file_name": "yt_short_scattered_marketing_assets_no_dam_20260817_060022.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "VezldNpRgnuOcqQfddTYZk",
+        "results": [
+          {
+            "id": "yt_script_ba397a76df63",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:00:51.187890"
+  },
+  {
+    "file_name": "yt_short_want_someone_to_build_not_just_advise_20260804_220606.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "VezldNpRgnuOcqQfddTagI",
+        "results": [
+          {
+            "id": "yt_script_db995580076e",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:00:53.295517"
+  },
+  {
+    "file_name": "yt_short_want_someone_to_build_not_just_advise_20260804_221113.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "VezldNpRgnuOcqQfddTbmK",
+        "results": [
+          {
+            "id": "yt_script_0c134dcb6e0b",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:00:55.715396"
+  },
+  {
+    "file_name": "yt_short_want_someone_to_build_not_just_advise_20260816_060034.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "VezldNpRgnuOcqQfddTciF",
+        "results": [
+          {
+            "id": "yt_script_31d7d8776e3c",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:00:58.005800"
+  },
+  {
+    "file_name": "yt_short_want_someone_to_build_not_just_advise_20260817_060054.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "Rsfi9AiN7zSlqCmOzB7MP0",
+        "results": [
+          {
+            "id": "yt_script_33a9fbb0d95a",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:01:00.195690"
+  },
+  {
+    "file_name": "yt_short_wasting_money_on_ads_no_a_b_testing_20260804_220606.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "mDk5f7opNV671LGAdw9HlS",
+        "results": [
+          {
+            "id": "yt_script_c9dba43ad3e4",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:01:02.207262"
+  },
+  {
+    "file_name": "yt_short_wasting_money_on_ads_no_a_b_testing_20260804_221113.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "mDk5f7opNV671LGAdw9IyV",
+        "results": [
+          {
+            "id": "yt_script_25805e878760",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:01:04.212711"
+  },
+  {
+    "file_name": "yt_short_wasting_money_on_ads_no_a_b_testing_20260806_084054.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "VezldNpRgnuOcqQfddTiwN",
+        "results": [
+          {
+            "id": "yt_script_43ab8f0ea84a",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:01:06.234751"
+  },
+  {
+    "file_name": "yt_short_wasting_money_on_ads_no_a_b_testing_20260816_060027.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "VezldNpRgnuOcqQfddTjmm",
+        "results": [
+          {
+            "id": "yt_script_803444a3a402",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:01:08.236482"
+  },
+  {
+    "file_name": "yt_short_wasting_money_on_ads_no_a_b_testing_20260817_060031.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "VezldNpRgnuOcqQfddTkS9",
+        "results": [
+          {
+            "id": "yt_script_8d1fe144068e",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:01:10.239976"
+  },
+  {
+    "file_name": "linkedin_post_disconnected_marketing_tools_20260817_060012.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "VezldNpRgnuOcqQfddTkso",
+        "results": [
+          {
+            "id": "li_post_29cdc76626d1",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:01:12.278189"
+  },
+  {
+    "file_name": "linkedin_post_manual_social_media_posting_takes_too_long_20260804_220606.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "mDk5f7opNV671LGAdw9UbQ",
+        "results": [
+          {
+            "id": "li_post_74df369f1b3b",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:01:14.244841"
+  },
+  {
+    "file_name": "linkedin_post_manual_social_media_posting_takes_too_long_20260804_221113.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "Rsfi9AiN7zSlqCmOzB8EzW",
+        "results": [
+          {
+            "id": "li_post_f63a51e91209",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:01:16.249491"
+  },
+  {
+    "file_name": "linkedin_post_manual_social_media_posting_takes_too_long_20260816_060015.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "Rsfi9AiN7zSlqCmOzB8IAI",
+        "results": [
+          {
+            "id": "li_post_f15de269efbf",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:01:19.525059"
+  },
+  {
+    "file_name": "linkedin_post_manual_social_media_posting_takes_too_long_20260817_060017.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "Rsfi9AiN7zSlqCmOzB8KwT",
+        "results": [
+          {
+            "id": "li_post_423f548c8219",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:01:22.076168"
+  },
+  {
+    "file_name": "linkedin_post_marketing_reporting_takes_too_long_20260804_220606.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "Rsfi9AiN7zSlqCmOzB8NYo",
+        "results": [
+          {
+            "id": "li_post_7d8c8d378ffb",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:01:24.275455"
+  },
+  {
+    "file_name": "linkedin_post_marketing_reporting_takes_too_long_20260804_221113.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "Rsfi9AiN7zSlqCmOzB8Phd",
+        "results": [
+          {
+            "id": "li_post_e3fcdd7d2c85",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:01:26.279168"
+  },
+  {
+    "file_name": "linkedin_post_marketing_reporting_takes_too_long_20260816_060024.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "VezldNpRgnuOcqQfddTr8m",
+        "results": [
+          {
+            "id": "li_post_3243aec065f8",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:01:28.293192"
+  },
+  {
+    "file_name": "linkedin_post_marketing_reporting_takes_too_long_20260817_060027.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "VezldNpRgnuOcqQfddTrjY",
+        "results": [
+          {
+            "id": "li_post_8a6c8b79a5ef",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:01:30.296260"
+  },
+  {
+    "file_name": "linkedin_post_scattered_marketing_assets_no_dam_20260804_221237.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "yZSTKPMaI22SefnqcSex8W",
+        "results": [
+          {
+            "id": "li_post_6d6e58688209",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:01:32.348794"
+  },
+  {
+    "file_name": "linkedin_post_scattered_marketing_assets_no_dam_20260816_060020.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "Rsfi9AiN7zSlqCmOzB9bZY",
+        "results": [
+          {
+            "id": "li_post_3a01d2282949",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:01:34.302875"
+  },
+  {
+    "file_name": "linkedin_post_scattered_marketing_assets_no_dam_20260817_060022.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "Rsfi9AiN7zSlqCmOzB9eaU",
+        "results": [
+          {
+            "id": "li_post_30dec4c57e9b",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:01:36.305806"
+  },
+  {
+    "file_name": "linkedin_post_want_someone_to_build_not_just_advise_20260804_220606.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "yZSTKPMaI22SefnqcSez44",
+        "results": [
+          {
+            "id": "li_post_69bcab8817f6",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:01:38.335416"
+  },
+  {
+    "file_name": "linkedin_post_want_someone_to_build_not_just_advise_20260804_221113.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "Rsfi9AiN7zSlqCmOzB9inD",
+        "results": [
+          {
+            "id": "li_post_02fe9e2665e9",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:01:40.359716"
+  },
+  {
+    "file_name": "linkedin_post_want_someone_to_build_not_just_advise_20260816_060034.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "Rsfi9AiN7zSlqCmOzB9kcM",
+        "results": [
+          {
+            "id": "li_post_68ec1c89f938",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:01:42.331131"
+  },
+  {
+    "file_name": "linkedin_post_want_someone_to_build_not_just_advise_20260817_060054.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "VezldNpRgnuOcqQfddTvU9",
+        "results": [
+          {
+            "id": "li_post_bfbf067c5d72",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:01:44.345037"
+  },
+  {
+    "file_name": "linkedin_post_wasting_money_on_ads_no_a_b_testing_20260804_220606.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "mDk5f7opNV671LGAdw9vJ2",
+        "results": [
+          {
+            "id": "li_post_da160c16cfe9",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:01:46.349626"
+  },
+  {
+    "file_name": "linkedin_post_wasting_money_on_ads_no_a_b_testing_20260804_221113.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "VezldNpRgnuOcqQfddTwSp",
+        "results": [
+          {
+            "id": "li_post_d30a3ba5d190",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:01:48.364799"
+  },
+  {
+    "file_name": "linkedin_post_wasting_money_on_ads_no_a_b_testing_20260806_084054.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "yZSTKPMaI22SefnqcSf22K",
+        "results": [
+          {
+            "id": "li_post_25972a073f34",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:01:50.361905"
+  },
+  {
+    "file_name": "linkedin_post_wasting_money_on_ads_no_a_b_testing_20260816_060027.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "mDk5f7opNV671LGAdw9wTo",
+        "results": [
+          {
+            "id": "li_post_bb28f67c9e23",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:01:52.365554"
+  },
+  {
+    "file_name": "linkedin_post_wasting_money_on_ads_no_a_b_testing_20260817_060031.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "yZSTKPMaI22SefnqcSf2FU",
+        "results": [
+          {
+            "id": "li_post_f26fdf525506",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:01:54.444986"
+  },
+  {
+    "file_name": "carousel_disconnected_tools_20260804_220556.json",
+    "platform": "LinkedIn",
+    "type": "carousel",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "yZSTKPMaI22SefnqcSf2Js",
+        "results": [
+          {
+            "id": "carousel_c0a4a68fdb51",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:01:56.901295"
+  },
+  {
+    "file_name": "carousel_disconnected_tools_20260804_220823.json",
+    "platform": "LinkedIn",
+    "type": "carousel",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "VezldNpRgnuOcqQfddTyGz",
+        "results": [
+          {
+            "id": "carousel_b8e868dc7b2b",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:01:59.209522"
+  },
+  {
+    "file_name": "carousel_disconnected_tools_20260816_060229.json",
+    "platform": "LinkedIn",
+    "type": "carousel",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "yZSTKPMaI22SefnqcSf4Ii",
+        "results": [
+          {
+            "id": "carousel_9fa8d947a203",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:02:01.409403"
+  },
+  {
+    "file_name": "carousel_disconnected_tools_20260817_060237.json",
+    "platform": "LinkedIn",
+    "type": "carousel",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "Rsfi9AiN7zSlqCmOzBAJ8H",
+        "results": [
+          {
+            "id": "carousel_18531af02266",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:02:03.425104"
+  },
+  {
+    "file_name": "carousel_scattered_assets_20260804_221251.json",
+    "platform": "LinkedIn",
+    "type": "carousel",
+    "action": "sanity_sync",
+    "result": {
+      "status": "created",
+      "response": {
+        "transactionId": "Rsfi9AiN7zSlqCmOzBAJWs",
+        "results": [
+          {
+            "id": "carousel_48af54f9ba6a",
+            "operation": "create"
+          }
+        ]
+      }
+    },
+    "timestamp": "2026-08-17T08:02:05.929138"
+  },
+  {
+    "file_name": "yt_short_disconnected_marketing_tools_20260804_220606.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "youtube_upload",
+    "video_id": "3U-pW6kRcEo",
+    "result": {
+      "video_id": "3U-pW6kRcEo",
+      "video_url": "https://www.youtube.com/watch?v=3U-pW6kRcEo",
+      "status": "uploaded",
+      "title": "Disconnected marketing tools — How We Fix It | M.O.T Innovation",
+      "response": {
+        "kind": "youtube#video",
+        "etag": "TECKlXzsELGA_lcqTpBAPu0v6CM",
+        "id": "3U-pW6kRcEo",
+        "snippet": {
+          "publishedAt": "2026-08-17T06:03:38Z",
+          "channelId": "UCMoSUZ8kie1ucWbsCUKy0-g",
+          "title": "Disconnected marketing tools — How We Fix It | M.O.T Innovation",
+          "description": "The average marketing team uses 12+ tools and fewer than half talk to each other. Stop hunting for files. A proper DAM system means finding any asset in seconds, not hours. Book a free consultation at https://motinnovation.co.za/contact?utm_source=content_engine&utm_medium=youtube_short&utm_campaign=disconnected_tools&utm_content=dam\n\n#shorts",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3U-pW6kRcEo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3U-pW6kRcEo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3U-pW6kRcEo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Marketing of Things",
+          "tags": [
+            "dam",
+            "disconnected tools",
+            "faceless content",
+            "marketing",
+            "marketing automation",
+            "marketing infrastructure"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "Disconnected marketing tools — How We Fix It | M.O.T Innovation",
+            "description": "The average marketing team uses 12+ tools and fewer than half talk to each other. Stop hunting for files. A proper DAM system means finding any asset in seconds, not hours. Book a free consultation at https://motinnovation.co.za/contact?utm_source=content_engine&utm_medium=youtube_short&utm_campaign=disconnected_tools&utm_content=dam\n\n#shorts"
+          }
+        },
+        "status": {
+          "uploadStatus": "uploaded",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "selfDeclaredMadeForKids": false
+        }
+      }
+    },
+    "timestamp": "2026-08-17T08:03:42.220087"
+  },
+  {
+    "file_name": "yt_short_disconnected_marketing_tools_20260804_220854.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "youtube_upload",
+    "video_id": "C2y9moYSC8g",
+    "result": {
+      "video_id": "C2y9moYSC8g",
+      "video_url": "https://www.youtube.com/watch?v=C2y9moYSC8g",
+      "status": "uploaded",
+      "title": "Disconnected marketing tools — How We Fix It | M.O.T Innovation",
+      "response": {
+        "kind": "youtube#video",
+        "etag": "DsEw9sqD6YS2-GS63GlB4Q63ZiU",
+        "id": "C2y9moYSC8g",
+        "snippet": {
+          "publishedAt": "2026-08-17T06:07:26Z",
+          "channelId": "UCMoSUZ8kie1ucWbsCUKy0-g",
+          "title": "Disconnected marketing tools — How We Fix It | M.O.T Innovation",
+          "description": "The average marketing team uses 12+ tools and fewer than half talk to each other. Stop hunting for files. A proper DAM system means finding any asset in seconds, not hours. Book a free consultation at https://motinnovation.co.za/contact?utm_source=content_engine&utm_medium=youtube_short&utm_campaign=disconnected_tools&utm_content=dam\n\n#shorts",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/C2y9moYSC8g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/C2y9moYSC8g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/C2y9moYSC8g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Marketing of Things",
+          "tags": [
+            "dam",
+            "disconnected tools",
+            "faceless content",
+            "marketing",
+            "marketing automation",
+            "marketing infrastructure"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "Disconnected marketing tools — How We Fix It | M.O.T Innovation",
+            "description": "The average marketing team uses 12+ tools and fewer than half talk to each other. Stop hunting for files. A proper DAM system means finding any asset in seconds, not hours. Book a free consultation at https://motinnovation.co.za/contact?utm_source=content_engine&utm_medium=youtube_short&utm_campaign=disconnected_tools&utm_content=dam\n\n#shorts"
+          }
+        },
+        "status": {
+          "uploadStatus": "uploaded",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "selfDeclaredMadeForKids": false
+        }
+      }
+    },
+    "timestamp": "2026-08-17T08:07:29.799601"
+  },
+  {
+    "file_name": "yt_short_disconnected_marketing_tools_20260804_221113.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "youtube_upload",
+    "video_id": "C0QyrlisNTI",
+    "result": {
+      "video_id": "C0QyrlisNTI",
+      "video_url": "https://www.youtube.com/watch?v=C0QyrlisNTI",
+      "status": "uploaded",
+      "title": "Disconnected marketing tools — How We Fix It | M.O.T Innovation",
+      "response": {
+        "kind": "youtube#video",
+        "etag": "vBaB1Ar4DuDYyoKDswD7wCg0S6s",
+        "id": "C0QyrlisNTI",
+        "snippet": {
+          "publishedAt": "2026-08-17T06:09:11Z",
+          "channelId": "UCMoSUZ8kie1ucWbsCUKy0-g",
+          "title": "Disconnected marketing tools — How We Fix It | M.O.T Innovation",
+          "description": "The average marketing team uses 12+ tools and fewer than half talk to each other. Stop hunting for files. A proper DAM system means finding any asset in seconds, not hours. Book a free consultation at https://motinnovation.co.za/contact?utm_source=content_engine&utm_medium=youtube_short&utm_campaign=disconnected_tools&utm_content=dam\n\n#shorts",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/C0QyrlisNTI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/C0QyrlisNTI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/C0QyrlisNTI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Marketing of Things",
+          "tags": [
+            "dam",
+            "disconnected tools",
+            "faceless content",
+            "marketing",
+            "marketing automation",
+            "marketing infrastructure"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "Disconnected marketing tools — How We Fix It | M.O.T Innovation",
+            "description": "The average marketing team uses 12+ tools and fewer than half talk to each other. Stop hunting for files. A proper DAM system means finding any asset in seconds, not hours. Book a free consultation at https://motinnovation.co.za/contact?utm_source=content_engine&utm_medium=youtube_short&utm_campaign=disconnected_tools&utm_content=dam\n\n#shorts"
+          }
+        },
+        "status": {
+          "uploadStatus": "uploaded",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "selfDeclaredMadeForKids": false
+        }
+      }
+    },
+    "timestamp": "2026-08-17T08:09:14.784012"
+  },
+  {
+    "file_name": "yt_short_disconnected_marketing_tools_20260816_060010.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "youtube_upload",
+    "video_id": "a4FGAK7vnAA",
+    "result": {
+      "video_id": "a4FGAK7vnAA",
+      "video_url": "https://www.youtube.com/watch?v=a4FGAK7vnAA",
+      "status": "uploaded",
+      "title": "Disconnected marketing tools — How We Fix It | M.O.T Innovation",
+      "response": {
+        "kind": "youtube#video",
+        "etag": "8i7AIKVy7wMFQ6-0xOWBVDqe11k",
+        "id": "a4FGAK7vnAA",
+        "snippet": {
+          "publishedAt": "2026-08-17T06:11:30Z",
+          "channelId": "UCMoSUZ8kie1ucWbsCUKy0-g",
+          "title": "Disconnected marketing tools — How We Fix It | M.O.T Innovation",
+          "description": "The average marketing team uses 12+ tools and fewer than half talk to each other. Stop hunting for files. A proper DAM system means finding any asset in seconds, not hours. Book a free consultation at https://motinnovation.co.za/contact?utm_source=content_engine&utm_medium=youtube_short&utm_campaign=disconnected_tools&utm_content=dam\n\n#shorts",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/a4FGAK7vnAA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/a4FGAK7vnAA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/a4FGAK7vnAA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Marketing of Things",
+          "tags": [
+            "dam",
+            "disconnected tools",
+            "faceless content",
+            "marketing",
+            "marketing automation",
+            "marketing infrastructure"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "Disconnected marketing tools — How We Fix It | M.O.T Innovation",
+            "description": "The average marketing team uses 12+ tools and fewer than half talk to each other. Stop hunting for files. A proper DAM system means finding any asset in seconds, not hours. Book a free consultation at https://motinnovation.co.za/contact?utm_source=content_engine&utm_medium=youtube_short&utm_campaign=disconnected_tools&utm_content=dam\n\n#shorts"
+          }
+        },
+        "status": {
+          "uploadStatus": "uploaded",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "selfDeclaredMadeForKids": false
+        }
+      }
+    },
+    "timestamp": "2026-08-17T08:11:34.728384"
+  },
+  {
+    "file_name": "yt_short_disconnected_marketing_tools_20260817_060012.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "youtube_upload",
+    "video_id": "vV-8rxJYbS4",
+    "result": {
+      "video_id": "vV-8rxJYbS4",
+      "video_url": "https://www.youtube.com/watch?v=vV-8rxJYbS4",
+      "status": "uploaded",
+      "title": "Disconnected marketing tools — How We Fix It | M.O.T Innovation",
+      "response": {
+        "kind": "youtube#video",
+        "etag": "dvCNLsui6evRiIShInxL0XeQwps",
+        "id": "vV-8rxJYbS4",
+        "snippet": {
+          "publishedAt": "2026-08-17T06:13:07Z",
+          "channelId": "UCMoSUZ8kie1ucWbsCUKy0-g",
+          "title": "Disconnected marketing tools — How We Fix It | M.O.T Innovation",
+          "description": "The average marketing team uses 12+ tools and fewer than half talk to each other. Stop hunting for files. A proper DAM system means finding any asset in seconds, not hours. Book a free consultation at https://motinnovation.co.za/contact?utm_source=content_engine&utm_medium=youtube_short&utm_campaign=disconnected_tools&utm_content=dam\n\n#shorts",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vV-8rxJYbS4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vV-8rxJYbS4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vV-8rxJYbS4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Marketing of Things",
+          "tags": [
+            "dam",
+            "disconnected tools",
+            "faceless content",
+            "marketing",
+            "marketing automation",
+            "marketing infrastructure"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "Disconnected marketing tools — How We Fix It | M.O.T Innovation",
+            "description": "The average marketing team uses 12+ tools and fewer than half talk to each other. Stop hunting for files. A proper DAM system means finding any asset in seconds, not hours. Book a free consultation at https://motinnovation.co.za/contact?utm_source=content_engine&utm_medium=youtube_short&utm_campaign=disconnected_tools&utm_content=dam\n\n#shorts"
+          }
+        },
+        "status": {
+          "uploadStatus": "uploaded",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "selfDeclaredMadeForKids": false
+        }
+      }
+    },
+    "timestamp": "2026-08-17T08:13:10.276641"
+  },
+  {
+    "file_name": "yt_short_manual_social_media_posting_takes_too_long_20260804_220606.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "youtube_upload",
+    "video_id": "8ca9OHMt9D0",
+    "result": {
+      "video_id": "8ca9OHMt9D0",
+      "video_url": "https://www.youtube.com/watch?v=8ca9OHMt9D0",
+      "status": "uploaded",
+      "title": "Manual social media posting takes too long — How We Fix It | M.O.T Innovation",
+      "response": {
+        "kind": "youtube#video",
+        "etag": "K_eWsx4c16ErJeqriDUTWcTpOeU",
+        "id": "8ca9OHMt9D0",
+        "snippet": {
+          "publishedAt": "2026-08-17T06:14:52Z",
+          "channelId": "UCMoSUZ8kie1ucWbsCUKy0-g",
+          "title": "Manual social media posting takes too long — How We Fix It | M.O.T Innovation",
+          "description": "Posting manually to each platform wastes hours every week and is error-prone. One content source, every channel served. Stop posting manually to each platform. Book a free consultation at https://motinnovation.co.za/contact?utm_source=content_engine&utm_medium=youtube_short&utm_campaign=manual_posting&utm_content=delivery\n\n#shorts",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8ca9OHMt9D0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8ca9OHMt9D0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8ca9OHMt9D0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Marketing of Things",
+          "tags": [
+            "delivery",
+            "faceless content",
+            "manual posting",
+            "marketing",
+            "marketing automation",
+            "marketing infrastructure"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "Manual social media posting takes too long — How We Fix It | M.O.T Innovation",
+            "description": "Posting manually to each platform wastes hours every week and is error-prone. One content source, every channel served. Stop posting manually to each platform. Book a free consultation at https://motinnovation.co.za/contact?utm_source=content_engine&utm_medium=youtube_short&utm_campaign=manual_posting&utm_content=delivery\n\n#shorts"
+          }
+        },
+        "status": {
+          "uploadStatus": "uploaded",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "selfDeclaredMadeForKids": false
+        }
+      }
+    },
+    "timestamp": "2026-08-17T08:14:55.856088"
+  },
+  {
+    "file_name": "linkedin_post_disconnected_marketing_tools_20260817_060012.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "linkedin_webhook",
+    "result": {
+      "status": "sent",
+      "status_code": 200,
+      "response": "Accepted",
+      "webhook_url": "https://hook.us2.make.com/7euwjhx5wg27gjhfj2sbp1mda5022cc9"
+    },
+    "timestamp": "2026-08-17T08:15:00.641443"
+  },
+  {
+    "file_name": "linkedin_post_manual_social_media_posting_takes_too_long_20260804_220606.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "linkedin_webhook",
+    "result": {
+      "status": "sent",
+      "status_code": 200,
+      "response": "Accepted",
+      "webhook_url": "https://hook.us2.make.com/7euwjhx5wg27gjhfj2sbp1mda5022cc9"
+    },
+    "timestamp": "2026-08-17T08:15:02.015657"
+  },
+  {
+    "file_name": "linkedin_post_manual_social_media_posting_takes_too_long_20260804_221113.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "linkedin_webhook",
+    "result": {
+      "status": "sent",
+      "status_code": 200,
+      "response": "Accepted",
+      "webhook_url": "https://hook.us2.make.com/7euwjhx5wg27gjhfj2sbp1mda5022cc9"
+    },
+    "timestamp": "2026-08-17T08:15:03.574690"
+  },
+  {
+    "file_name": "linkedin_post_manual_social_media_posting_takes_too_long_20260816_060015.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "linkedin_webhook",
+    "result": {
+      "status": "sent",
+      "status_code": 200,
+      "response": "Accepted",
+      "webhook_url": "https://hook.us2.make.com/7euwjhx5wg27gjhfj2sbp1mda5022cc9"
+    },
+    "timestamp": "2026-08-17T08:15:05.411764"
+  },
+  {
+    "file_name": "linkedin_post_manual_social_media_posting_takes_too_long_20260817_060017.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "linkedin_webhook",
+    "result": {
+      "status": "sent",
+      "status_code": 200,
+      "response": "Accepted",
+      "webhook_url": "https://hook.us2.make.com/7euwjhx5wg27gjhfj2sbp1mda5022cc9"
+    },
+    "timestamp": "2026-08-17T08:15:06.765364"
+  },
+  {
+    "file_name": "linkedin_post_marketing_reporting_takes_too_long_20260804_220606.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "linkedin_webhook",
+    "result": {
+      "status": "sent",
+      "status_code": 200,
+      "response": "Accepted",
+      "webhook_url": "https://hook.us2.make.com/7euwjhx5wg27gjhfj2sbp1mda5022cc9"
+    },
+    "timestamp": "2026-08-17T08:15:08.137302"
+  },
+  {
+    "file_name": "linkedin_post_marketing_reporting_takes_too_long_20260804_221113.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "linkedin_webhook",
+    "result": {
+      "status": "sent",
+      "status_code": 200,
+      "response": "Accepted",
+      "webhook_url": "https://hook.us2.make.com/7euwjhx5wg27gjhfj2sbp1mda5022cc9"
+    },
+    "timestamp": "2026-08-17T08:15:09.577753"
+  },
+  {
+    "file_name": "linkedin_post_marketing_reporting_takes_too_long_20260816_060024.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "linkedin_webhook",
+    "result": {
+      "status": "sent",
+      "status_code": 200,
+      "response": "Accepted",
+      "webhook_url": "https://hook.us2.make.com/7euwjhx5wg27gjhfj2sbp1mda5022cc9"
+    },
+    "timestamp": "2026-08-17T08:15:10.935808"
+  },
+  {
+    "file_name": "linkedin_post_marketing_reporting_takes_too_long_20260817_060027.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "linkedin_webhook",
+    "result": {
+      "status": "sent",
+      "status_code": 200,
+      "response": "Accepted",
+      "webhook_url": "https://hook.us2.make.com/7euwjhx5wg27gjhfj2sbp1mda5022cc9"
+    },
+    "timestamp": "2026-08-17T08:15:12.375301"
+  },
+  {
+    "file_name": "linkedin_post_scattered_marketing_assets_no_dam_20260804_221237.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "linkedin_webhook",
+    "result": {
+      "status": "sent",
+      "status_code": 200,
+      "response": "Accepted",
+      "webhook_url": "https://hook.us2.make.com/7euwjhx5wg27gjhfj2sbp1mda5022cc9"
+    },
+    "timestamp": "2026-08-17T08:15:16.326724"
+  },
+  {
+    "file_name": "linkedin_post_scattered_marketing_assets_no_dam_20260816_060020.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "linkedin_webhook",
+    "result": {
+      "status": "sent",
+      "status_code": 200,
+      "response": "Accepted",
+      "webhook_url": "https://hook.us2.make.com/7euwjhx5wg27gjhfj2sbp1mda5022cc9"
+    },
+    "timestamp": "2026-08-17T08:15:20.457259"
+  },
+  {
+    "file_name": "linkedin_post_scattered_marketing_assets_no_dam_20260817_060022.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "linkedin_webhook",
+    "result": {
+      "status": "sent",
+      "status_code": 200,
+      "response": "Accepted",
+      "webhook_url": "https://hook.us2.make.com/7euwjhx5wg27gjhfj2sbp1mda5022cc9"
+    },
+    "timestamp": "2026-08-17T08:15:24.438052"
+  },
+  {
+    "file_name": "linkedin_post_want_someone_to_build_not_just_advise_20260804_220606.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "linkedin_webhook",
+    "result": {
+      "status": "sent",
+      "status_code": 200,
+      "response": "Accepted",
+      "webhook_url": "https://hook.us2.make.com/7euwjhx5wg27gjhfj2sbp1mda5022cc9"
+    },
+    "timestamp": "2026-08-17T08:15:25.906441"
+  },
+  {
+    "file_name": "linkedin_post_want_someone_to_build_not_just_advise_20260804_221113.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "linkedin_webhook",
+    "result": {
+      "status": "sent",
+      "status_code": 200,
+      "response": "Accepted",
+      "webhook_url": "https://hook.us2.make.com/7euwjhx5wg27gjhfj2sbp1mda5022cc9"
+    },
+    "timestamp": "2026-08-17T08:15:27.354469"
+  },
+  {
+    "file_name": "linkedin_post_want_someone_to_build_not_just_advise_20260816_060034.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "linkedin_webhook",
+    "result": {
+      "status": "sent",
+      "status_code": 200,
+      "response": "Accepted",
+      "webhook_url": "https://hook.us2.make.com/7euwjhx5wg27gjhfj2sbp1mda5022cc9"
+    },
+    "timestamp": "2026-08-17T08:15:28.697642"
+  },
+  {
+    "file_name": "linkedin_post_want_someone_to_build_not_just_advise_20260817_060054.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "linkedin_webhook",
+    "result": {
+      "status": "sent",
+      "status_code": 200,
+      "response": "Accepted",
+      "webhook_url": "https://hook.us2.make.com/7euwjhx5wg27gjhfj2sbp1mda5022cc9"
+    },
+    "timestamp": "2026-08-17T08:15:30.125738"
+  },
+  {
+    "file_name": "linkedin_post_wasting_money_on_ads_no_a_b_testing_20260804_220606.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "linkedin_webhook",
+    "result": {
+      "status": "sent",
+      "status_code": 200,
+      "response": "Accepted",
+      "webhook_url": "https://hook.us2.make.com/7euwjhx5wg27gjhfj2sbp1mda5022cc9"
+    },
+    "timestamp": "2026-08-17T08:15:31.968204"
+  },
+  {
+    "file_name": "linkedin_post_wasting_money_on_ads_no_a_b_testing_20260804_221113.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "linkedin_webhook",
+    "result": {
+      "status": "sent",
+      "status_code": 200,
+      "response": "Accepted",
+      "webhook_url": "https://hook.us2.make.com/7euwjhx5wg27gjhfj2sbp1mda5022cc9"
+    },
+    "timestamp": "2026-08-17T08:15:33.322631"
+  },
+  {
+    "file_name": "linkedin_post_wasting_money_on_ads_no_a_b_testing_20260806_084054.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "linkedin_webhook",
+    "result": {
+      "status": "sent",
+      "status_code": 200,
+      "response": "Accepted",
+      "webhook_url": "https://hook.us2.make.com/7euwjhx5wg27gjhfj2sbp1mda5022cc9"
+    },
+    "timestamp": "2026-08-17T08:15:34.639397"
+  },
+  {
+    "file_name": "linkedin_post_wasting_money_on_ads_no_a_b_testing_20260816_060027.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "linkedin_webhook",
+    "result": {
+      "status": "sent",
+      "status_code": 200,
+      "response": "Accepted",
+      "webhook_url": "https://hook.us2.make.com/7euwjhx5wg27gjhfj2sbp1mda5022cc9"
+    },
+    "timestamp": "2026-08-17T08:15:36.024177"
+  },
+  {
+    "file_name": "linkedin_post_wasting_money_on_ads_no_a_b_testing_20260817_060031.md",
+    "platform": "LinkedIn",
+    "type": "linkedin_post",
+    "action": "linkedin_webhook",
+    "result": {
+      "status": "sent",
+      "status_code": 200,
+      "response": "Accepted",
+      "webhook_url": "https://hook.us2.make.com/7euwjhx5wg27gjhfj2sbp1mda5022cc9"
+    },
+    "timestamp": "2026-08-17T08:15:37.475265"
+  },
+  {
+    "file_name": "yt_short_disconnected_marketing_tools_20260817_112320.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "youtube_upload",
+    "result": {
+      "status": "skipped",
+      "reason": "superseded by regenerated impact-focused script"
+    },
+    "timestamp": "2026-08-17T11:49:32.498645"
+  },
+  {
+    "file_name": "yt_short_disconnected_marketing_tools_20260804_221005.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "youtube_upload",
+    "result": {
+      "status": "skipped",
+      "reason": "superseded by regenerated impact-focused script"
+    },
+    "timestamp": "2026-08-17T11:49:43.857573"
+  },
+  {
+    "file_name": "yt_short_manual_social_media_posting_takes_too_long_20260804_221113.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "youtube_upload",
+    "result": {
+      "status": "skipped",
+      "reason": "superseded by regenerated impact-focused script"
+    },
+    "timestamp": "2026-08-17T11:49:43.857573"
+  },
+  {
+    "file_name": "yt_short_manual_social_media_posting_takes_too_long_20260816_060015.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "youtube_upload",
+    "result": {
+      "status": "skipped",
+      "reason": "superseded by regenerated impact-focused script"
+    },
+    "timestamp": "2026-08-17T11:49:43.857573"
+  },
+  {
+    "file_name": "yt_short_manual_social_media_posting_takes_too_long_20260817_060017.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "youtube_upload",
+    "result": {
+      "status": "skipped",
+      "reason": "superseded by regenerated impact-focused script"
+    },
+    "timestamp": "2026-08-17T11:49:43.857573"
+  },
+  {
+    "file_name": "yt_short_marketing_reporting_takes_too_long_20260804_220606.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "youtube_upload",
+    "result": {
+      "status": "skipped",
+      "reason": "superseded by regenerated impact-focused script"
+    },
+    "timestamp": "2026-08-17T11:49:43.857573"
+  },
+  {
+    "file_name": "yt_short_marketing_reporting_takes_too_long_20260804_221113.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "youtube_upload",
+    "result": {
+      "status": "skipped",
+      "reason": "superseded by regenerated impact-focused script"
+    },
+    "timestamp": "2026-08-17T11:49:43.857573"
+  },
+  {
+    "file_name": "yt_short_marketing_reporting_takes_too_long_20260816_060024.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "youtube_upload",
+    "result": {
+      "status": "skipped",
+      "reason": "superseded by regenerated impact-focused script"
+    },
+    "timestamp": "2026-08-17T11:49:43.857573"
+  },
+  {
+    "file_name": "yt_short_marketing_reporting_takes_too_long_20260817_060027.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "youtube_upload",
+    "result": {
+      "status": "skipped",
+      "reason": "superseded by regenerated impact-focused script"
+    },
+    "timestamp": "2026-08-17T11:49:43.857573"
+  },
+  {
+    "file_name": "yt_short_scattered_marketing_assets_no_dam_20260804_220606.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "youtube_upload",
+    "result": {
+      "status": "skipped",
+      "reason": "superseded by regenerated impact-focused script"
+    },
+    "timestamp": "2026-08-17T11:49:43.857573"
+  },
+  {
+    "file_name": "yt_short_scattered_marketing_assets_no_dam_20260804_221113.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "youtube_upload",
+    "result": {
+      "status": "skipped",
+      "reason": "superseded by regenerated impact-focused script"
+    },
+    "timestamp": "2026-08-17T11:49:43.857573"
+  },
+  {
+    "file_name": "yt_short_scattered_marketing_assets_no_dam_20260804_221237.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "youtube_upload",
+    "result": {
+      "status": "skipped",
+      "reason": "superseded by regenerated impact-focused script"
+    },
+    "timestamp": "2026-08-17T11:49:43.857573"
+  },
+  {
+    "file_name": "yt_short_scattered_marketing_assets_no_dam_20260816_060020.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "youtube_upload",
+    "result": {
+      "status": "skipped",
+      "reason": "superseded by regenerated impact-focused script"
+    },
+    "timestamp": "2026-08-17T11:49:43.857573"
+  },
+  {
+    "file_name": "yt_short_scattered_marketing_assets_no_dam_20260817_060022.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "youtube_upload",
+    "result": {
+      "status": "skipped",
+      "reason": "superseded by regenerated impact-focused script"
+    },
+    "timestamp": "2026-08-17T11:49:43.857573"
+  },
+  {
+    "file_name": "yt_short_want_someone_to_build_not_just_advise_20260804_220606.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "youtube_upload",
+    "result": {
+      "status": "skipped",
+      "reason": "superseded by regenerated impact-focused script"
+    },
+    "timestamp": "2026-08-17T11:49:43.857573"
+  },
+  {
+    "file_name": "yt_short_want_someone_to_build_not_just_advise_20260804_221113.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "youtube_upload",
+    "result": {
+      "status": "skipped",
+      "reason": "superseded by regenerated impact-focused script"
+    },
+    "timestamp": "2026-08-17T11:49:43.857573"
+  },
+  {
+    "file_name": "yt_short_want_someone_to_build_not_just_advise_20260816_060034.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "youtube_upload",
+    "result": {
+      "status": "skipped",
+      "reason": "superseded by regenerated impact-focused script"
+    },
+    "timestamp": "2026-08-17T11:49:43.857573"
+  },
+  {
+    "file_name": "yt_short_want_someone_to_build_not_just_advise_20260817_060054.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "youtube_upload",
+    "result": {
+      "status": "skipped",
+      "reason": "superseded by regenerated impact-focused script"
+    },
+    "timestamp": "2026-08-17T11:49:43.857573"
+  },
+  {
+    "file_name": "yt_short_wasting_money_on_ads_no_a_b_testing_20260804_220606.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "youtube_upload",
+    "result": {
+      "status": "skipped",
+      "reason": "superseded by regenerated impact-focused script"
+    },
+    "timestamp": "2026-08-17T11:49:43.857573"
+  },
+  {
+    "file_name": "yt_short_wasting_money_on_ads_no_a_b_testing_20260804_221113.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "youtube_upload",
+    "result": {
+      "status": "skipped",
+      "reason": "superseded by regenerated impact-focused script"
+    },
+    "timestamp": "2026-08-17T11:49:43.857573"
+  },
+  {
+    "file_name": "yt_short_wasting_money_on_ads_no_a_b_testing_20260806_084054.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "youtube_upload",
+    "result": {
+      "status": "skipped",
+      "reason": "superseded by regenerated impact-focused script"
+    },
+    "timestamp": "2026-08-17T11:49:43.857573"
+  },
+  {
+    "file_name": "yt_short_wasting_money_on_ads_no_a_b_testing_20260816_060027.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "youtube_upload",
+    "result": {
+      "status": "skipped",
+      "reason": "superseded by regenerated impact-focused script"
+    },
+    "timestamp": "2026-08-17T11:49:43.857573"
+  },
+  {
+    "file_name": "yt_short_wasting_money_on_ads_no_a_b_testing_20260817_060031.md",
+    "platform": "YouTube",
+    "type": "youtube_short",
+    "action": "youtube_upload",
+    "result": {
+      "status": "skipped",
+      "reason": "superseded by regenerated impact-focused script"
+    },
+    "timestamp": "2026-08-17T11:49:43.857573"
   }
 ]
